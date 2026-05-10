@@ -1,5 +1,5 @@
 'use client';
 
-export function ThemeToggle() {
+export function StatsRow() {
   return null;
 }
