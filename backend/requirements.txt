@@ -1,0 +1,34 @@
+# Web framework
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+
+# Database
+sqlalchemy==2.0.36
+aiosqlite==0.20.0
+
+# Settings
+pydantic==2.9.2
+pydantic-settings==2.5.2
+pydantic[email]==2.9.2
+
+# HTTP client
+httpx==0.27.2
+
+# Auth
+svix==1.24.0
+
+# ML / embeddings
+huggingface-hub==0.25.2
+sentence-transformers==3.1.1
+
+# Async tasks
+celery==5.4.0
+redis==5.1.1
+
+# Scraping
+beautifulsoup4==4.12.3
+requests==2.32.3
+
+# Utils
+python-multipart==0.0.12
+python-dotenv==1.0.1

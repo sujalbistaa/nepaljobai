@@ -1,0 +1,3425 @@
+[
+  {
+    "company_name": "Doublard Design Pvt. Ltd",
+    "location": "Kathmandu",
+    "job_title": "PHP / Laravel Developer (Mid-Level)",
+    "role_type": "programming",
+    "skills_needed": [
+      "PHP",
+      "Laravel",
+      "MySQL",
+      "REST APIs",
+      "Git",
+      "HTML/CSS/JavaScript"
+    ],
+    "salary_fixed_approx_npr": 60000,
+    "day_of_job_closing": "2026-05-25"
+  },
+  {
+    "company_name": "Asian Center for Development Pvt. Ltd",
+    "location": "Kathmandu",
+    "job_title": "Web Developer / Frontend Engineer",
+    "role_type": "programming",
+    "skills_needed": [
+      "JavaScript",
+      "React",
+      "HTML/CSS",
+      "responsive design",
+      "Git"
+    ],
+    "salary_fixed_approx_npr": 45000,
+    "day_of_job_closing": "2026-05-20"
+  },
+  {
+    "company_name": "E PRIMA Technology",
+    "location": "Kathmandu",
+    "job_title": "Support Engineer – Web Hosting & Security",
+    "role_type": "programming_and_security",
+    "skills_needed": [
+      "Linux servers",
+      "cPanel",
+      "DNS",
+      "basic vulnerability scanning",
+      "ticketing systems"
+    ],
+    "salary_fixed_approx_npr": 40000,
+    "day_of_job_closing": "2026-05-18"
+  },
+  {
+    "company_name": "Uranus Tech Nepal Pvt Ltd",
+    "location": "Kathmandu",
+    "job_title": "Technical Support (Core Banking System Unit)",
+    "role_type": "programming_and_it_security",
+    "skills_needed": [
+      "banking software",
+      "technical troubleshooting",
+      "network basics",
+      "SQL basics"
+    ],
+    "salary_fixed_approx_npr": 50000,
+    "day_of_job_closing": "2026-05-22"
+  },
+  {
+    "company_name": "A Leading IT Company",
+    "location": "Kathmandu",
+    "job_title": "Cyber Security Analyst",
+    "role_type": "hacking_and_security",
+    "skills_needed": [
+      "OSINT",
+      "SIEM tools",
+      "firewall basics",
+      "log analysis",
+      "vulnerability scanning"
+    ],
+    "salary_fixed_approx_npr": 70000,
+    "day_of_job_closing": "2026-05-28"
+  },
+  {
+    "company_name": "Nepal Payment Solution",
+    "location": "Kathmandu",
+    "job_title": "Security Engineer – Payment Systems",
+    "role_type": "hacking_and_security",
+    "skills_needed": [
+      "PCI‑DSS concepts",
+      "network security",
+      "penetration testing basics",
+      "risk assessment"
+    ],
+    "salary_fixed_approx_npr": 90000,
+    "day_of_job_closing": "2026-05-24"
+  },
+  {
+    "company_name": "Stoxkarts Securities Limited",
+    "location": "Kathmandu",
+    "job_title": "IT Department / DP Cum Accounts Receivable Developer",
+    "role_type": "programming",
+    "skills_needed": [
+      "Java or .NET",
+      "database design",
+      "reporting tools",
+      "stock/brokerage domain knowledge"
+    ],
+    "salary_fixed_approx_npr": 80000,
+    "day_of_job_closing": "2026-05-26"
+  },
+  {
+    "company_name": "Chainge Digital Pvt. Ltd",
+    "location": "Kathmandu",
+    "job_title": "Backend Engineer – Crypto / FinTech",
+    "role_type": "programming",
+    "skills_needed": [
+      "Node.js or Python",
+      "API development",
+      "cryptographic concepts",
+      "REST/GraphQL"
+    ],
+    "salary_fixed_approx_npr": 120000,
+    "day_of_job_closing": "2026-05-27"
+  },
+  {
+    "company_name": "A Leading IT Company",
+    "location": "Kathmandu",
+    "job_title": "Penetration Tester / Ethical Hacker",
+    "role_type": "hacking_and_security",
+    "skills_needed": [
+      "Python scripting",
+      "Burp Suite / OWASP ZAP",
+      "SQLi, XSS, CSRF",
+      "Nmap, Wireshark",
+      "written reporting"
+    ],
+    "salary_fixed_approx_npr": 100000,
+    "day_of_job_closing": "2026-05-30"
+  },
+  {
+    "company_name": "Clean Up Nepal",
+    "location": "Kathmandu",
+    "job_title": "IT/Software Developer – Project Management Tool",
+    "role_type": "programming",
+    "skills_needed": [
+      "Django or Laravel",
+      "PostgreSQL",
+      "project management logic",
+      "basic UI/UX"
+    ],
+    "salary_fixed_approx_npr": 55000,
+    "day_of_job_closing": "2026-05-19"
+  },
+  {
+    "company_name": "Doublard Design Pvt. Ltd",
+    "location": "Kathmandu",
+    "job_title": "PHP / Laravel Developer (Mid-Level)",
+    "role_type": "programming",
+    "skills_needed": [
+      "PHP",
+      "Laravel",
+      "MySQL",
+      "REST APIs",
+      "Git",
+      "HTML/CSS/JavaScript"
+    ],
+    "salary_fixed_approx_npr": 60000,
+    "day_of_job_closing": "2026-05-25"
+  },
+  {
+    "company_name": "Asian Center for Development Pvt. Ltd",
+    "location": "Kathmandu",
+    "job_title": "Web Developer / Frontend Engineer",
+    "role_type": "programming",
+    "skills_needed": [
+      "JavaScript",
+      "React",
+      "HTML/CSS",
+      "responsive design",
+      "Git"
+    ],
+    "salary_fixed_approx_npr": 45000,
+    "day_of_job_closing": "2026-05-20"
+  },
+  {
+    "company_name": "E PRIMA Technology",
+    "location": "Kathmandu",
+    "job_title": "Support Engineer – Web Hosting & Security",
+    "role_type": "programming_and_security",
+    "skills_needed": [
+      "Linux servers",
+      "cPanel",
+      "DNS",
+      "basic vulnerability scanning",
+      "ticketing systems"
+    ],
+    "salary_fixed_approx_npr": 40000,
+    "day_of_job_closing": "2026-05-18"
+  },
+  {
+    "company_name": "Uranus Tech Nepal Pvt Ltd",
+    "location": "Kathmandu",
+    "job_title": "Technical Support (Core Banking System Unit)",
+    "role_type": "programming_and_it_security",
+    "skills_needed": [
+      "banking software",
+      "technical troubleshooting",
+      "network basics",
+      "SQL basics"
+    ],
+    "salary_fixed_approx_npr": 50000,
+    "day_of_job_closing": "2026-05-22"
+  },
+  {
+    "company_name": "A Leading IT Company",
+    "location": "Kathmandu",
+    "job_title": "Cyber Security Analyst",
+    "role_type": "hacking_and_security",
+    "skills_needed": [
+      "OSINT",
+      "SIEM tools",
+      "firewall basics",
+      "log analysis",
+      "vulnerability scanning"
+    ],
+    "salary_fixed_approx_npr": 70000,
+    "day_of_job_closing": "2026-05-28"
+  },
+  {
+    "company_name": "Nepal Payment Solution",
+    "location": "Kathmandu",
+    "job_title": "Security Engineer – Payment Systems",
+    "role_type": "hacking_and_security",
+    "skills_needed": [
+      "PCI‑DSS concepts",
+      "network security",
+      "penetration testing basics",
+      "risk assessment"
+    ],
+    "salary_fixed_approx_npr": 90000,
+    "day_of_job_closing": "2026-05-24"
+  },
+  {
+    "company_name": "Stoxkarts Securities Limited",
+    "location": "Kathmandu",
+    "job_title": "IT Department / DP Cum Accounts Receivable Developer",
+    "role_type": "programming",
+    "skills_needed": [
+      "Java or .NET",
+      "database design",
+      "reporting tools",
+      "stock/brokerage domain knowledge"
+    ],
+    "salary_fixed_approx_npr": 80000,
+    "day_of_job_closing": "2026-05-26"
+  },
+  {
+    "company_name": "Chainge Digital Pvt. Ltd",
+    "location": "Kathmandu",
+    "job_title": "Backend Engineer – Crypto / FinTech",
+    "role_type": "programming",
+    "skills_needed": [
+      "Node.js or Python",
+      "API development",
+      "cryptographic concepts",
+      "REST/GraphQL"
+    ],
+    "salary_fixed_approx_npr": 120000,
+    "day_of_job_closing": "2026-05-27"
+  },
+  {
+    "company_name": "A Leading IT Company",
+    "location": "Kathmandu",
+    "job_title": "Penetration Tester / Ethical Hacker",
+    "role_type": "hacking_and_security",
+    "skills_needed": [
+      "Python scripting",
+      "Burp Suite / OWASP ZAP",
+      "SQLi, XSS, CSRF",
+      "Nmap, Wireshark",
+      "written reporting"
+    ],
+    "salary_fixed_approx_npr": 100000,
+    "day_of_job_closing": "2026-05-30"
+  },
+  {
+    "company_name": "Clean Up Nepal",
+    "location": "Kathmandu",
+    "job_title": "IT/Software Developer – Project Management Tool",
+    "role_type": "programming",
+    "skills_needed": [
+      "Django or Laravel",
+      "PostgreSQL",
+      "project management logic",
+      "basic UI/UX"
+    ],
+    "salary_fixed_approx_npr": 55000,
+    "day_of_job_closing": "2026-05-19"
+  },
+  {
+    "company_name": "RKCNL iTech Limited",
+    "location": "Kathmandu",
+    "job_title": "Full‑Stack Developer",
+    "role_type": "programming",
+    "skills_needed": [
+      "JavaScript",
+      "Node.js",
+      "React",
+      "MongoDB",
+      "Git"
+    ],
+    "salary_fixed_approx_npr": 65000,
+    "day_of_job_closing": "2026-05-17"
+  },
+  {
+    "company_name": "Andmine",
+    "location": "Kathmandu",
+    "job_title": "DevOps Engineer",
+    "role_type": "programming_and_security",
+    "skills_needed": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD pipelines",
+      "Linux",
+      "basic security hardening"
+    ],
+    "salary_fixed_approx_npr": 85000,
+    "day_of_job_closing": "2026-05-23"
+  },
+  {
+    "company_name": "A Leading HR Tech Startup",
+    "location": "Kathmandu",
+    "job_title": "Mobile App Developer (Android)",
+    "role_type": "programming",
+    "skills_needed": [
+      "Kotlin",
+      "Android SDK",
+      "Firebase",
+      "REST APIs",
+      "Material Design"
+    ],
+    "salary_fixed_approx_npr": 70000,
+    "day_of_job_closing": "2026-05-21"
+  },
+  {
+    "company_name": "A Fintech Company",
+    "location": "Kathmandu",
+    "job_title": "Blockchain Developer",
+    "role_type": "programming",
+    "skills_needed": [
+      "Solidity",
+      "Ethereum",
+      "Web3.js",
+      "Node.js",
+      "smart contract security basics"
+    ],
+    "salary_fixed_approx_npr": 130000,
+    "day_of_job_closing": "2026-05-29"
+  },
+  {
+    "company_name": "A Cybersecurity Firm",
+    "location": "Kathmandu",
+    "job_title": "SOC Analyst",
+    "role_type": "hacking_and_security",
+    "skills_needed": [
+      "SIEM tools",
+      "IDS/IPS",
+      "incident handling",
+      "log analysis",
+      "threat intel basics"
+    ],
+    "salary_fixed_approx_npr": 60000,
+    "day_of_job_closing": "2026-05-16"
+  },
+  {
+    "company_name": "Doublard Design Pvt. Ltd",
+    "location": "Kathmandu",
+    "job_title": "PHP / Laravel Developer (Mid-Level)",
+    "role_type": "programming",
+    "skills_needed": [
+      "PHP",
+      "Laravel",
+      "MySQL",
+      "REST APIs",
+      "Git",
+      "HTML/CSS/JavaScript"
+    ],
+    "salary_fixed_approx_npr": 60000,
+    "day_of_job_closing": "2026-05-25"
+  },
+  {
+    "company_name": "Asian Center for Development Pvt. Ltd",
+    "location": "Kathmandu",
+    "job_title": "Web Developer / Frontend Engineer",
+    "role_type": "programming",
+    "skills_needed": [
+      "JavaScript",
+      "React",
+      "HTML/CSS",
+      "responsive design",
+      "Git"
+    ],
+    "salary_fixed_approx_npr": 45000,
+    "day_of_job_closing": "2026-05-20"
+  },
+  {
+    "company_name": "E PRIMA Technology",
+    "location": "Kathmandu",
+    "job_title": "Support Engineer – Web Hosting & Security",
+    "role_type": "network_and_security",
+    "skills_needed": [
+      "Linux servers",
+      "cPanel",
+      "DNS",
+      "basic vulnerability scanning",
+      "ticketing systems"
+    ],
+    "salary_fixed_approx_npr": 40000,
+    "day_of_job_closing": "2026-05-18"
+  },
+  {
+    "company_name": "Uranus Tech Nepal Pvt Ltd",
+    "location": "Kathmandu",
+    "job_title": "Technical Support (Core Banking System Unit)",
+    "role_type": "programming_and_it_security",
+    "skills_needed": [
+      "banking software",
+      "technical troubleshooting",
+      "network basics",
+      "SQL basics"
+    ],
+    "salary_fixed_approx_npr": 50000,
+    "day_of_job_closing": "2026-05-22"
+  },
+  {
+    "company_name": "A Leading IT Company",
+    "location": "Kathmandu",
+    "job_title": "Cyber Security Analyst",
+    "role_type": "hacking_and_security",
+    "skills_needed": [
+      "OSINT",
+      "SIEM tools",
+      "firewall basics",
+      "log analysis",
+      "vulnerability scanning"
+    ],
+    "salary_fixed_approx_npr": 70000,
+    "day_of_job_closing": "2026-05-28"
+  },
+  {
+    "company_name": "Nepal Payment Solution",
+    "location": "Kathmandu",
+    "job_title": "Security Engineer – Payment Systems",
+    "role_type": "hacking_and_security",
+    "skills_needed": [
+      "PCI‑DSS concepts",
+      "network security",
+      "penetration testing basics",
+      "risk assessment"
+    ],
+    "salary_fixed_approx_npr": 90000,
+    "day_of_job_closing": "2026-05-24"
+  },
+  {
+    "company_name": "Stoxkarts Securities Limited",
+    "location": "Kathmandu",
+    "job_title": "IT Department / DP Cum Accounts Receivable Developer",
+    "role_type": "programming",
+    "skills_needed": [
+      "Java or .NET",
+      "database design",
+      "reporting tools",
+      "stock/brokerage domain knowledge"
+    ],
+    "salary_fixed_approx_npr": 80000,
+    "day_of_job_closing": "2026-05-26"
+  },
+  {
+    "company_name": "Chainge Digital Pvt. Ltd",
+    "location": "Kathmandu",
+    "job_title": "Backend Engineer – Crypto / FinTech",
+    "role_type": "programming",
+    "skills_needed": [
+      "Node.js or Python",
+      "API development",
+      "cryptographic concepts",
+      "REST/GraphQL"
+    ],
+    "salary_fixed_approx_npr": 120000,
+    "day_of_job_closing": "2026-05-27"
+  },
+  {
+    "company_name": "A Leading IT Company",
+    "location": "Kathmandu",
+    "job_title": "Penetration Tester / Ethical Hacker",
+    "role_type": "hacking_and_security",
+    "skills_needed": [
+      "Python scripting",
+      "Burp Suite / OWASP ZAP",
+      "SQLi, XSS, CSRF",
+      "Nmap, Wireshark",
+      "written reporting"
+    ],
+    "salary_fixed_approx_npr": 100000,
+    "day_of_job_closing": "2026-05-30"
+  },
+  {
+    "company_name": "Clean Up Nepal",
+    "location": "Kathmandu",
+    "job_title": "IT/Software Developer – Project Management Tool",
+    "role_type": "programming",
+    "skills_needed": [
+      "Django or Laravel",
+      "PostgreSQL",
+      "project management logic",
+      "basic UI/UX"
+    ],
+    "salary_fixed_approx_npr": 55000,
+    "day_of_job_closing": "2026-05-19"
+  },
+  {
+    "company_name": "RKCNL iTech Limited",
+    "location": "Kathmandu",
+    "job_title": "Full‑Stack Developer",
+    "role_type": "programming",
+    "skills_needed": [
+      "JavaScript",
+      "Node.js",
+      "React",
+      "MongoDB",
+      "Git"
+    ],
+    "salary_fixed_approx_npr": 65000,
+    "day_of_job_closing": "2026-05-17"
+  },
+  {
+    "company_name": "Andmine",
+    "location": "Kathmandu",
+    "job_title": "DevOps Engineer",
+    "role_type": "devops",
+    "skills_needed": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD pipelines",
+      "Linux",
+      "basic security hardening"
+    ],
+    "salary_fixed_approx_npr": 85000,
+    "day_of_job_closing": "2026-05-23"
+  },
+  {
+    "company_name": "A Leading HR Tech Startup",
+    "location": "Kathmandu",
+    "job_title": "Mobile App Developer (Android)",
+    "role_type": "programming",
+    "skills_needed": [
+      "Kotlin",
+      "Android SDK",
+      "Firebase",
+      "REST APIs",
+      "Material Design"
+    ],
+    "salary_fixed_approx_npr": 70000,
+    "day_of_job_closing": "2026-05-21"
+  },
+  {
+    "company_name": "A Fintech Company",
+    "location": "Kathmandu",
+    "job_title": "Blockchain Developer",
+    "role_type": "programming",
+    "skills_needed": [
+      "Solidity",
+      "Ethereum",
+      "Web3.js",
+      "Node.js",
+      "smart contract security basics"
+    ],
+    "salary_fixed_approx_npr": 130000,
+    "day_of_job_closing": "2026-05-29"
+  },
+  {
+    "company_name": "A Cybersecurity Firm",
+    "location": "Kathmandu",
+    "job_title": "SOC Analyst",
+    "role_type": "hacking_and_security",
+    "skills_needed": [
+      "SIEM tools",
+      "IDS/IPS",
+      "incident handling",
+      "log analysis",
+      "threat intel basics"
+    ],
+    "salary_fixed_approx_npr": 60000,
+    "day_of_job_closing": "2026-05-16"
+  },
+  {
+    "company_name": "Deerwalk Jobs",
+    "location": "Kathmandu",
+    "job_title": "Cyber Security Officer",
+    "role_type": "hacking_and_security",
+    "skills_needed": [
+      "cybersecurity policies",
+      "network security",
+      "incident response",
+      "vulnerability assessment",
+      "basic penetration testing"
+    ],
+    "salary_fixed_approx_npr": 75000,
+    "day_of_job_closing": "2026-05-15"
+  },
+  {
+    "company_name": "A Telecom Company",
+    "location": "Kathmandu",
+    "job_title": "Network Engineer",
+    "role_type": "network",
+    "skills_needed": [
+      "routing and switching",
+      "firewalls",
+      "MikroTik / Cisco",
+      "troubleshooting",
+      "documentation"
+    ],
+    "salary_fixed_approx_npr": 65000,
+    "day_of_job_closing": "2026-05-22"
+  },
+  {
+    "company_name": "A Cloud Services Provider",
+    "location": "Kathmandu",
+    "job_title": "Cloud Engineer (AWS / GCP)",
+    "role_type": "cloud",
+    "skills_needed": [
+      "AWS or GCP",
+      "virtual machines",
+      "storage and networking",
+      "monitoring",
+      "basic security"
+    ],
+    "salary_fixed_approx_npr": 80000,
+    "day_of_job_closing": "2026-05-24"
+  },
+  {
+    "company_name": "A Data Analytics Company",
+    "location": "Kathmandu",
+    "job_title": "Data Analyst / Business Intelligence",
+    "role_type": "data_science",
+    "skills_needed": [
+      "SQL",
+      "Excel / Google Sheets",
+      "Power BI or Tableau",
+      "data cleaning",
+      "basic statistics"
+    ],
+    "salary_fixed_approx_npr": 55000,
+    "day_of_job_closing": "2026-05-18"
+  },
+  {
+    "company_name": "A Research Lab",
+    "location": "Kathmandu",
+    "job_title": "AI / Machine Learning Engineer",
+    "role_type": "data_science",
+    "skills_needed": [
+      "Python",
+      "machine learning",
+      "TensorFlow or PyTorch",
+      "APIs",
+      "presentation of results"
+    ],
+    "salary_fixed_approx_npr": 110000,
+    "day_of_job_closing": "2026-05-26"
+  },
+  {
+    "company_name": "A Software Factory",
+    "location": "Kathmandu",
+    "job_title": "QA Engineer / Software Tester",
+    "role_type": "quality_assurance",
+    "skills_needed": [
+      "manual testing",
+      "test cases",
+      "bug reporting",
+      "Postman",
+      "basic SQL"
+    ],
+    "salary_fixed_approx_npr": 45000,
+    "day_of_job_closing": "2026-05-19"
+  },
+  {
+    "company_name": "A Government IT Project",
+    "location": "Kathmandu",
+    "job_title": "IT Project Coordinator (STEM)",
+    "role_type": "project_management_it",
+    "skills_needed": [
+      "project coordination",
+      "basic IT knowledge",
+      "communication",
+      "documentation",
+      "stakeholder management"
+    ],
+    "salary_fixed_approx_npr": 50000,
+    "day_of_job_closing": "2026-05-23"
+  },
+  {
+    "company_name": "A Telecom Operator",
+    "location": "Kathmandu",
+    "job_title": "IT Operations Engineer",
+    "role_type": "it_operations",
+    "skills_needed": [
+      "Windows / Linux servers",
+      "Active Directory",
+      "backups",
+      "monitoring tools",
+      "ticket handling"
+    ],
+    "salary_fixed_approx_npr": 60000,
+    "day_of_job_closing": "2026-05-21"
+  },
+  {
+    "company_name": "A Digital Marketing Tech Company",
+    "location": "Kathmandu",
+    "job_title": "Automation / Scripting Engineer",
+    "role_type": "programming",
+    "skills_needed": [
+      "Python",
+      "automation scripts",
+      "web scraping basics",
+      "APIs",
+      "data pipelines"
+    ],
+    "salary_fixed_approx_npr": 55000,
+    "day_of_job_closing": "2026-05-20"
+  },
+  {
+    "company_name": "Noble Stack",
+    "location": "Kathmandu",
+    "job_title": "AI Engineer – NLP",
+    "role_type": "data_science",
+    "skills_needed": [
+      "Python",
+      "NLP",
+      "TensorFlow",
+      "APIs",
+      "data pipelines"
+    ],
+    "salary_fixed_approx_npr": 140000,
+    "day_of_job_closing": "2026-05-30"
+  },
+  {
+    "company_name": "Leapfrog Technology",
+    "location": "Kathmandu",
+    "job_title": "Senior Backend Engineer",
+    "role_type": "programming",
+    "skills_needed": [
+      "Java",
+      "Spring Boot",
+      "PostgreSQL",
+      "REST",
+      "microservices"
+    ],
+    "salary_fixed_approx_npr": 120000,
+    "day_of_job_closing": "2026-05-28"
+  },
+  {
+    "company_name": "Fusemachines",
+    "location": "Kathmandu",
+    "job_title": "Machine Learning Engineer",
+    "role_type": "data_science",
+    "skills_needed": [
+      "Python",
+      "PyTorch",
+      "SQL",
+      "model deployment",
+      "cloud"
+    ],
+    "salary_fixed_approx_npr": 130000,
+    "day_of_job_closing": "2026-05-27"
+  },
+  {
+    "company_name": "Cotiviti Nepal",
+    "location": "Kathmandu",
+    "job_title": "Healthcare Data Analyst",
+    "role_type": "data_science",
+    "skills_needed": [
+      "SQL",
+      "Python",
+      "Power BI",
+      "statistics",
+      "healthcare data"
+    ],
+    "salary_fixed_approx_npr": 90000,
+    "day_of_job_closing": "2026-05-26"
+  },
+  {
+    "company_name": "Logpoint Nepal",
+    "location": "Kathmandu",
+    "job_title": "SIEM & Security Analyst",
+    "role_type": "hacking_and_security",
+    "skills_needed": [
+      "SIEM",
+      "log analysis",
+      "network security",
+      "incident response",
+      "threat intel"
+    ],
+    "salary_fixed_approx_npr": 95000,
+    "day_of_job_closing": "2026-05-25"
+  },
+  {
+    "company_name": "Deerwalk Inc",
+    "location": "Kathmandu",
+    "job_title": "Healthcare Software Developer",
+    "role_type": "programming",
+    "skills_needed": [
+      "Java",
+      "Spring",
+      "PostgreSQL",
+      "REST APIs",
+      "healthcare domain"
+    ],
+    "salary_fixed_approx_npr": 100000,
+    "day_of_job_closing": "2026-05-24"
+  },
+  {
+    "company_name": "CloudFactory",
+    "location": "Kathmandu",
+    "job_title": "Data Processing Engineer",
+    "role_type": "data_engineering",
+    "skills_needed": [
+      "Python",
+      "SQL",
+      "ETL",
+      "data cleaning",
+      "cloud tools"
+    ],
+    "salary_fixed_approx_npr": 70000,
+    "day_of_job_closing": "2026-05-23"
+  },
+  {
+    "company_name": "Verisk Nepal",
+    "location": "Kathmandu",
+    "job_title": "Risk Analytics Engineer",
+    "role_type": "data_science",
+    "skills_needed": [
+      "Python",
+      "SQL",
+      "R",
+      "risk modeling",
+      "statistics"
+    ],
+    "salary_fixed_approx_npr": 110000,
+    "day_of_job_closing": "2026-05-22"
+  },
+  {
+    "company_name": "Cedar Gate Technologies",
+    "location": "Kathmandu",
+    "job_title": "SaaS Product Engineer",
+    "role_type": "programming",
+    "skills_needed": [
+      "JavaScript",
+      "Node.js",
+      "React",
+      "PostgreSQL",
+      "cloud"
+    ],
+    "salary_fixed_approx_npr": 115000,
+    "day_of_job_closing": "2026-05-21"
+  },
+  {
+    "company_name": "F1Soft International",
+    "location": "Kathmandu",
+    "job_title": "FinTech Backend Developer",
+    "role_type": "programming",
+    "skills_needed": [
+      "Java",
+      "Spring Boot",
+      "Oracle DB",
+      "payment systems",
+      "microservices"
+    ],
+    "salary_fixed_approx_npr": 125000,
+    "day_of_job_closing": "2026-05-20"
+  },
+  {
+    "company_name": "Braindigit IT Solutions",
+    "location": "Kathmandu",
+    "job_title": "Full‑Stack Developer",
+    "role_type": "programming",
+    "skills_needed": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Git"
+    ],
+    "salary_fixed_approx_npr": 75000,
+    "day_of_job_closing": "2026-05-19"
+  },
+  {
+    "company_name": "InfoDevelopers",
+    "location": "Kathmandu",
+    "job_title": "Mobile App Developer (iOS)",
+    "role_type": "programming",
+    "skills_needed": [
+      "Swift",
+      "iOS SDK",
+      "REST APIs",
+      "Firebase",
+      "CocoaPods"
+    ],
+    "salary_fixed_approx_npr": 72000,
+    "day_of_job_closing": "2026-05-18"
+  },
+  {
+    "company_name": "Softbenz Infosys",
+    "location": "Kathmandu",
+    "job_title": "DevOps Engineer",
+    "role_type": "devops",
+    "skills_needed": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Linux",
+      "cloud"
+    ],
+    "salary_fixed_approx_npr": 85000,
+    "day_of_job_closing": "2026-05-17"
+  },
+  {
+    "company_name": "Grepsr",
+    "location": "Kathmandu",
+    "job_title": "Data Extraction Engineer",
+    "role_type": "data_engineering",
+    "skills_needed": [
+      "Python",
+      "scraping",
+      "APIs",
+      "pandas",
+      "data pipelines"
+    ],
+    "salary_fixed_approx_npr": 70000,
+    "day_of_job_closing": "2026-05-16"
+  },
+  {
+    "company_name": "EB Pearls Nepal",
+    "location": "Kathmandu",
+    "job_title": "UI/UX Engineer – Design + Dev",
+    "role_type": "frontend",
+    "skills_needed": [
+      "Figma",
+      "React",
+      "HTML/CSS",
+      "prototyping",
+      "responsive design"
+    ],
+    "salary_fixed_approx_npr": 68000,
+    "day_of_job_closing": "2026-05-15"
+  },
+  {
+    "company_name": "Yomari Tech",
+    "location": "Kathmandu",
+    "job_title": "QA Automation Engineer",
+    "role_type": "quality_assurance",
+    "skills_needed": [
+      "Selenium",
+      "JavaScript",
+      "Cypress",
+      "CI/CD",
+      "test reporting"
+    ],
+    "salary_fixed_approx_npr": 65000,
+    "day_of_job_closing": "2026-05-14"
+  },
+  {
+    "company_name": "Techkraft",
+    "location": "Kathmandu",
+    "job_title": "Cloud Engineer – AWS",
+    "role_type": "cloud",
+    "skills_needed": [
+      "AWS",
+      "EC2",
+      "S3",
+      "Lambda",
+      "security basics"
+    ],
+    "salary_fixed_approx_npr": 80000,
+    "day_of_job_closing": "2026-05-13"
+  },
+  {
+    "company_name": "Smart Data Solutions",
+    "location": "Kathmandu",
+    "job_title": "Business Intelligence Analyst",
+    "role_type": "data_science",
+    "skills_needed": [
+      "SQL",
+      "Power BI",
+      "Excel",
+      "data modeling",
+      "dashboard design"
+    ],
+    "salary_fixed_approx_npr": 60000,
+    "day_of_job_closing": "2026-05-12"
+  },
+  {
+    "company_name": "Genese Solutions",
+    "location": "Kathmandu",
+    "job_title": "Backend Developer – .NET",
+    "role_type": "programming",
+    "skills_needed": [
+      ".NET",
+      "C#",
+      "SQL Server",
+      "ASP.NET Core",
+      "REST APIs"
+    ],
+    "salary_fixed_approx_npr": 75000,
+    "day_of_job_closing": "2026-05-11"
+  },
+  {
+    "company_name": "Code Himalaya",
+    "location": "Kathmandu",
+    "job_title": "Junior Full‑Stack Developer",
+    "role_type": "programming",
+    "skills_needed": [
+      "JavaScript",
+      "Node.js",
+      "React",
+      "MongoDB",
+      "Git"
+    ],
+    "salary_fixed_approx_npr": 50000,
+    "day_of_job_closing": "2026-05-10"
+  },
+  {
+    "company_name": "Gurzu",
+    "location": "Kathmandu",
+    "job_title": "Product Engineer",
+    "role_type": "programming",
+    "skills_needed": [
+      "React",
+      "Node.js",
+      "TypeScript",
+      "PostgreSQL",
+      "design thinking"
+    ],
+    "salary_fixed_approx_npr": 70000,
+    "day_of_job_closing": "2026-05-09"
+  },
+  {
+    "company_name": "YoungInnovations",
+    "location": "Kathmandu",
+    "job_title": "Open Source Software Engineer",
+    "role_type": "programming",
+    "skills_needed": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Git",
+      "open source contribution"
+    ],
+    "salary_fixed_approx_npr": 72000,
+    "day_of_job_closing": "2026-05-08"
+  },
+  {
+    "company_name": "Javra Software",
+    "location": "Kathmandu",
+    "job_title": "ERP Developer",
+    "role_type": "programming",
+    "skills_needed": [
+      "Java",
+      "Spring",
+      "PostgreSQL",
+      "ERP logic",
+      "accounting basics"
+    ],
+    "salary_fixed_approx_npr": 80000,
+    "day_of_job_closing": "2026-05-07"
+  },
+  {
+    "company_name": "Spiralogics",
+    "location": "Kathmandu",
+    "job_title": "Senior Web Developer",
+    "role_type": "programming",
+    "skills_needed": [
+      "PHP",
+      "Laravel",
+      "MySQL",
+      "jQuery",
+      "Git"
+    ],
+    "salary_fixed_approx_npr": 85000,
+    "day_of_job_closing": "2026-05-06"
+  },
+  {
+    "company_name": "Bitsbeat",
+    "location": "Kathmandu",
+    "job_title": "Frontend Developer",
+    "role_type": "frontend",
+    "skills_needed": [
+      "React",
+      "Vue.js",
+      "HTML/CSS",
+      "responsive design",
+      "Webpack"
+    ],
+    "salary_fixed_approx_npr": 60000,
+    "day_of_job_closing": "2026-05-05"
+  },
+  {
+    "company_name": "Deerhold",
+    "location": "Kathmandu",
+    "job_title": "Cyber Security Consultant",
+    "role_type": "hacking_and_security",
+    "skills_needed": [
+      "pentesting",
+      "risk assessment",
+      "compliance",
+      "report writing",
+      "network security"
+    ],
+    "salary_fixed_approx_npr": 100000,
+    "day_of_job_closing": "2026-05-04"
+  },
+  {
+    "company_name": "Webtech Nepal",
+    "location": "Kathmandu",
+    "job_title": "WordPress Developer",
+    "role_type": "programming",
+    "skills_needed": [
+      "PHP",
+      "WordPress",
+      "React",
+      "MySQL",
+      "SEO basics"
+    ],
+    "salary_fixed_approx_npr": 45000,
+    "day_of_job_closing": "2026-05-03"
+  },
+  {
+    "company_name": "Startups Realm",
+    "location": "Kathmandu",
+    "job_title": "Startup Software Engineer",
+    "role_type": "programming",
+    "skills_needed": [
+      "JavaScript",
+      "Node.js",
+      "React",
+      "PostgreSQL",
+      "startup mindset"
+    ],
+    "salary_fixed_approx_npr": 65000,
+    "day_of_job_closing": "2026-05-02"
+  },
+  {
+    "company_name": "NepQube",
+    "location": "Kathmandu",
+    "job_title": "Brand & UI Engineer",
+    "role_type": "frontend",
+    "skills_needed": [
+      "Figma",
+      "React",
+      "HTML/CSS",
+      "motion design basics",
+      "brand consistency"
+    ],
+    "salary_fixed_approx_npr": 60000,
+    "day_of_job_closing": "2026-05-01"
+  },
+  {
+    "company_name": "Abstract Infosys",
+    "location": "Kathmandu",
+    "job_title": "SEO & Automation Engineer",
+    "role_type": "programming",
+    "skills_needed": [
+      "Python",
+      "scraping",
+      "SEO tools",
+      "APIs",
+      "basic analytics"
+    ],
+    "salary_fixed_approx_npr": 52000,
+    "day_of_job_closing": "2026-04-30"
+  },
+  {
+    "company_name": "ShotCoder Tech",
+    "location": "Kathmandu",
+    "job_title": "Junior Backend Developer",
+    "role_type": "programming",
+    "skills_needed": [
+      "PHP",
+      "Laravel",
+      "MySQL",
+      "REST APIs",
+      "Git"
+    ],
+    "salary_fixed_approx_npr": 48000,
+    "day_of_job_closing": "2026-04-29"
+  },
+  {
+    "company_name": "Softwarica",
+    "location": "Kathmandu",
+    "job_title": "EdTech Platform Developer",
+    "role_type": "programming",
+    "skills_needed": [
+      "Node.js",
+      "React",
+      "MongoDB",
+      "video APIs",
+      "LMS basics"
+    ],
+    "salary_fixed_approx_npr": 68000,
+    "day_of_job_closing": "2026-04-28"
+  },
+  {
+    "company_name": "Pixel Himalaya",
+    "location": "Kathmandu",
+    "job_title": "Digital Marketing Tech Engineer",
+    "role_type": "programming",
+    "skills_needed": [
+      "SQL",
+      "Google Analytics",
+      "automation scripts",
+      "APIs",
+      "campaign tracking"
+    ],
+    "salary_fixed_approx_npr": 55000,
+    "day_of_job_closing": "2026-04-27"
+  },
+  {
+    "company_name": "Asterdio",
+    "location": "Kathmandu",
+    "job_title": "Healthcare Analytics Engineer",
+    "role_type": "data_science",
+    "skills_needed": [
+      "SQL",
+      "Python",
+      "healthcare data",
+      "dashboards",
+      "ETL"
+    ],
+    "salary_fixed_approx_npr": 90000,
+    "day_of_job_closing": "2026-04-26"
+  },
+  {
+    "company_name": "HLE Nepal",
+    "location": "Kathmandu",
+    "job_title": "IT Operations & Support Engineer",
+    "role_type": "it_operations",
+    "skills_needed": [
+      "Windows / Linux support",
+      "Active Directory",
+      "ticketing tools",
+      "basic networking",
+      "remote support"
+    ],
+    "salary_fixed_approx_npr": 55000,
+    "day_of_job_closing": "2026-05-01"
+  },
+  {
+    "company_name": "Alaya Technologies",
+    "location": "Kathmandu",
+    "job_title": "Business Process Automation Engineer",
+    "role_type": "automation",
+    "skills_needed": [
+      "Python scripting",
+      "RPA basics",
+      "APIs",
+      "Excel automation",
+      "process documentation"
+    ],
+    "salary_fixed_approx_npr": 65000,
+    "day_of_job_closing": "2026-05-03"
+  },
+  {
+    "company_name": "Nordic IT Solutions",
+    "location": "Kathmandu",
+    "job_title": "Full‑Stack Developer – Nordic Stack",
+    "role_type": "programming",
+    "skills_needed": [
+      "JavaScript",
+      "Node.js",
+      "React",
+      "PostgreSQL",
+      "Docker basics"
+    ],
+    "salary_fixed_approx_npr": 72000,
+    "day_of_job_closing": "2026-05-04"
+  },
+  {
+    "company_name": "Virtusa Nepal",
+    "location": "Kathmandu",
+    "job_title": "Senior Java Engineer",
+    "role_type": "programming",
+    "skills_needed": [
+      "Java",
+      "Spring Boot",
+      "Oracle",
+      "microservices",
+      "testing"
+    ],
+    "salary_fixed_approx_npr": 130000,
+    "day_of_job_closing": "2026-05-05"
+  },
+  {
+    "company_name": "Codiant",
+    "location": "Kathmandu",
+    "job_title": "Mobile App Developer",
+    "role_type": "programming",
+    "skills_needed": [
+      "Flutter",
+      "Dart",
+      "Firebase",
+      "REST APIs",
+      "Git"
+    ],
+    "salary_fixed_approx_npr": 68000,
+    "day_of_job_closing": "2026-05-06"
+  },
+  {
+    "company_name": "Innominds Nepal",
+    "location": "Kathmandu",
+    "job_title": "Cloud & DevOps Engineer",
+    "role_type": "devops",
+    "skills_needed": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "monitoring"
+    ],
+    "salary_fixed_approx_npr": 95000,
+    "day_of_job_closing": "2026-05-07"
+  },
+  {
+    "company_name": "Turing",
+    "location": "Kathmandu",
+    "job_title": "Remote Senior Software Engineer",
+    "role_type": "programming",
+    "skills_needed": [
+      "JavaScript",
+      "TypeScript",
+      "Node.js",
+      "React",
+      "system design"
+    ],
+    "salary_fixed_approx_npr": 140000,
+    "day_of_job_closing": "2026-05-08"
+  },
+  {
+    "company_name": "Miracle Dynamics",
+    "location": "Kathmandu",
+    "job_title": "Salesforce Developer",
+    "role_type": "programming",
+    "skills_needed": [
+      "Apex",
+      "LWC",
+      "Salesforce",
+      "SOQL",
+      "REST APIs"
+    ],
+    "salary_fixed_approx_npr": 110000,
+    "day_of_job_closing": "2026-05-09"
+  },
+  {
+    "company_name": "Amazing Things",
+    "location": "Kathmandu",
+    "job_title": "Senior QA Engineer",
+    "role_type": "quality_assurance",
+    "skills_needed": [
+      "manual testing",
+      "automation",
+      "Postman",
+      "test reporting",
+      "agile"
+    ],
+    "salary_fixed_approx_npr": 70000,
+    "day_of_job_closing": "2026-05-10"
+  },
+  {
+    "company_name": "Karmic Solutions",
+    "location": "Kathmandu",
+    "job_title": "Security & Compliance Specialist",
+    "role_type": "hacking_and_security",
+    "skills_needed": [
+      "ISMS",
+      "risk assessment",
+      "policy drafting",
+      "auditing basics",
+      "documentation"
+    ],
+    "salary_fixed_approx_npr": 75000,
+    "day_of_job_closing": "2026-05-11"
+  },
+  {
+    "company_name": "TechVista",
+    "location": "Kathmandu",
+    "job_title": "Frontend Engineer – Web3",
+    "role_type": "programming",
+    "skills_needed": [
+      "React",
+      "Web3.js",
+      "Ethers.js",
+      "MetaMask",
+      "blockchain basics"
+    ],
+    "salary_fixed_approx_npr": 78000,
+    "day_of_job_closing": "2026-05-12"
+  },
+  {
+    "company_name": "DataNest",
+    "location": "Kathmandu",
+    "job_title": "Data Engineer",
+    "role_type": "data_engineering",
+    "skills_needed": [
+      "SQL",
+      "Python",
+      "ETL",
+      "Airflow",
+      "cloud storage"
+    ],
+    "salary_fixed_approx_npr": 82000,
+    "day_of_job_closing": "2026-05-13"
+  },
+  {
+    "company_name": "SecureNet Nepal",
+    "location": "Kathmandu",
+    "job_title": "Network Security Engineer",
+    "role_type": "network_and_security",
+    "skills_needed": [
+      "firewalls",
+      "routing",
+      "IDS/IPS",
+      "VPN",
+      "MikroTik / Cisco"
+    ],
+    "salary_fixed_approx_npr": 85000,
+    "day_of_job_closing": "2026-05-14"
+  },
+  {
+    "company_name": "CodeCraft Nepal",
+    "location": "Kathmandu",
+    "job_title": "Junior Software Engineer",
+    "role_type": "programming",
+    "skills_needed": [
+      "Python",
+      "Django",
+      "REST APIs",
+      "Git",
+      "Linux basics"
+    ],
+    "salary_fixed_approx_npr": 48000,
+    "day_of_job_closing": "2026-05-15"
+  },
+  {
+    "company_name": "Axiom Computech",
+    "location": "Kathmandu",
+    "job_title": "SysAdmin – Cloud & On‑Prem",
+    "role_type": "it_operations",
+    "skills_needed": [
+      "Linux",
+      "Windows Server",
+      "backup",
+      "monitoring",
+      "scripting"
+    ],
+    "salary_fixed_approx_npr": 63000,
+    "day_of_job_closing": "2026-05-16"
+  },
+   {
+    "company_name": "PixelForge Labs",
+    "location": "Kathmandu",
+    "job_title": "Full‑Stack Developer – SaaS",
+    "role_type": "programming",
+    "skills_needed": [
+      "TypeScript",
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "REST APIs"
+    ],
+    "salary_fixed_approx_npr": 75000,
+    "day_of_job_closing": "2026-05-17"
+  },
+  {
+    "company_name": "CyberNova Nepal",
+    "location": "Kathmandu",
+    "job_title": "Security Operations Engineer",
+    "role_type": "hacking_and_security",
+    "skills_needed": [
+      "SIEM",
+      "IDS/IPS",
+      "log analysis",
+      "incident response",
+      "forensics basics"
+    ],
+    "salary_fixed_approx_npr": 80000,
+    "day_of_job_closing": "2026-05-18"
+  },
+  {
+    "company_name": "NexusGrid",
+    "location": "Kathmandu",
+    "job_title": "DevOps & Cloud Engineer",
+    "role_type": "devops",
+    "skills_needed": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "CI/CD pipelines"
+    ],
+    "salary_fixed_approx_npr": 92000,
+    "day_of_job_closing": "2026-05-19"
+  },
+  {
+    "company_name": "DataPulse Nepal",
+    "location": "Kathmandu",
+    "job_title": "BI & Dashboard Engineer",
+    "role_type": "data_science",
+    "skills_needed": [
+      "SQL",
+      "Power BI",
+      "ETL",
+      "data modeling",
+      "report distribution"
+    ],
+    "salary_fixed_approx_npr": 68000,
+    "day_of_job_closing": "2026-05-20"
+  },
+  {
+    "company_name": "QuantumLeap AI",
+    "location": "Kathmandu",
+    "job_title": "Machine Learning Ops Engineer",
+    "role_type": "data_science",
+    "skills_needed": [
+      "Python",
+      "MLflow",
+      "Docker",
+      "model monitoring",
+      "cloud ML services"
+    ],
+    "salary_fixed_approx_npr": 110000,
+    "day_of_job_closing": "2026-05-21"
+  },
+  {
+    "company_name": "LogicHive",
+    "location": "Kathmandu",
+    "job_title": "Backend Engineer – Realtime APIs",
+    "role_type": "programming",
+    "skills_needed": [
+      "Node.js",
+      "WebSockets",
+      "Redis",
+      "PostgreSQL",
+      "scalability"
+    ],
+    "salary_fixed_approx_npr": 82000,
+    "day_of_job_closing": "2026-05-22"
+  },
+  {
+    "company_name": "ShieldCore Nepal",
+    "location": "Kathmandu",
+    "job_title": "Penetration Tester – Red Team",
+    "role_type": "hacking_and_security",
+    "skills_needed": [
+      "Kali Linux",
+      "Burp Suite",
+      "network exploitation",
+      "reporting",
+      "documenting findings"
+    ],
+    "salary_fixed_approx_npr": 98000,
+    "day_of_job_closing": "2026-05-23"
+  },
+  {
+    "company_name": "StackFlow Labs",
+    "location": "Kathmandu",
+    "job_title": "Mobile Engineer – Android",
+    "role_type": "programming",
+    "skills_needed": [
+      "Kotlin",
+      "Jetpack",
+      "Room",
+      "Retrofit",
+      "testing"
+    ],
+    "salary_fixed_approx_npr": 65000,
+    "day_of_job_closing": "2026-05-24"
+  },
+  {
+    "company_name": "NetVantage Nepal",
+    "location": "Kathmandu",
+    "job_title": "Network & Security Engineer",
+    "role_type": "network_and_security",
+    "skills_needed": [
+      "routing",
+      "switching",
+      "firewalls",
+      "VPN",
+      "network monitoring"
+    ],
+    "salary_fixed_approx_npr": 73000,
+    "day_of_job_closing": "2026-05-25"
+  },
+  {
+    "company_name": "CloudPlex Nepal",
+    "location": "Kathmandu",
+    "job_title": "Cloud Platform Engineer",
+    "role_type": "cloud",
+    "skills_needed": [
+      "AWS",
+      "GCP",
+      "load balancers",
+      "security groups",
+      "cost optimization"
+    ],
+    "salary_fixed_approx_npr": 90000,
+    "day_of_job_closing": "2026-05-26"
+  },
+  {
+    "company_name": "ScriptFlow",
+    "location": "Kathmandu",
+    "job_title": "Automation & Scripting Engineer",
+    "role_type": "automation",
+    "skills_needed": [
+      "Python",
+      "Bash",
+      "cron",
+      "API automation",
+      "task scheduling"
+    ],
+    "salary_fixed_approx_npr": 60000,
+    "day_of_job_closing": "2026-05-27"
+  },
+  {
+    "company_name": "IntelliQube",
+    "location": "Kathmandu",
+    "job_title": "Data Scientist – Customer Analytics",
+    "role_type": "data_science",
+    "skills_needed": [
+      "Python",
+      "SQL",
+      "machine learning",
+      "regression",
+      "dashboarding"
+    ],
+    "salary_fixed_approx_npr": 105000,
+    "day_of_job_closing": "2026-05-28"
+  },
+  {
+    "company_name": "DevSprint Nepal",
+    "location": "Kathmandu",
+    "job_title": "Junior Full‑Stack Developer",
+    "role_type": "programming",
+    "skills_needed": [
+      "HTML/CSS",
+      "JavaScript",
+      "Node.js",
+      "Express",
+      "Git"
+    ],
+    "salary_fixed_approx_npr": 48000,
+    "day_of_job_closing": "2026-05-29"
+  },
+  {
+    "company_name": "KernelCore Labs",
+    "location": "Kathmandu",
+    "job_title": "Systems Engineer – Linux",
+    "role_type": "it_operations",
+    "skills_needed": [
+      "Linux administration",
+      "Shell scripting",
+      "system hardening",
+      "monitoring",
+      "troubleshooting"
+    ],
+    "salary_fixed_approx_npr": 65000,
+    "day_of_job_closing": "2026-05-30"
+  },
+  {
+    "company_name": "CyberHaven Nepal",
+    "location": "Kathmandu",
+    "job_title": "Application Security Engineer",
+    "role_type": "hacking_and_security",
+    "skills_needed": [
+      "SAST",
+      "DAST",
+      "code review",
+      "OWASP Top 10",
+      "security guidelines"
+    ],
+    "salary_fixed_approx_npr": 88000,
+    "day_of_job_closing": "2026-06-01"
+  },
+  {
+    "company_name": "FrontierBit",
+    "location": "Kathmandu",
+    "job_title": "Frontend Engineer – E‑commerce",
+    "role_type": "frontend",
+    "skills_needed": [
+      "JavaScript",
+      "React",
+      "Redux",
+      "performance optimization",
+      "SEO basics"
+    ],
+    "salary_fixed_approx_npr": 68000,
+    "day_of_job_closing": "2026-06-02"
+  },
+  {
+    "company_name": "Code Lighthouse",
+    "location": "Kathmandu",
+    "job_title": "Software Engineer – Payments",
+    "role_type": "programming",
+    "skills_needed": [
+      "Java",
+      "Spring Boot",
+      "PostgreSQL",
+      "payment gateways",
+      "security basics"
+    ],
+    "salary_fixed_approx_npr": 85000,
+    "day_of_job_closing": "2026-06-03"
+  },
+  {
+    "company_name": "Aegis Vault",
+    "location": "Kathmandu",
+    "job_title": "SOC Lead",
+    "role_type": "hacking_and_security",
+    "skills_needed": [
+      "SIEM management",
+      "incident triage",
+      "team leadership",
+      "policy adherence",
+      "threat intel"
+    ],
+    "salary_fixed_approx_npr": 120000,
+    "day_of_job_closing": "2026-06-04"
+  },
+  {
+    "company_name": "NexaTrace",
+    "location": "Kathmandu",
+    "job_title": "IT Risk & Compliance Analyst",
+    "role_type": "hacking_and_security",
+    "skills_needed": [
+      "ISO 27001",
+      "RMF",
+      "audit support",
+      "documentation",
+      "risk assessment"
+    ],
+    "salary_fixed_approx_npr": 70000,
+    "day_of_job_closing": "2026-06-05"
+  },
+  {
+    "company_name": "CloudCanvas Nepal",
+    "location": "Kathmandu",
+    "job_title": "DevOps Specialist – CI/CD",
+    "role_type": "devops",
+    "skills_needed": [
+      "Jenkins",
+      "GitLab CI",
+      "Docker",
+      "Kubernetes",
+      "security in pipelines"
+    ],
+    "salary_fixed_approx_npr": 83000,
+    "day_of_job_closing": "2026-06-06"
+  },
+  {
+    "company_name": "DataFusion Nepal",
+    "location": "Kathmandu",
+    "job_title": "Data Engineer – Streaming",
+    "role_type": "data_engineering",
+    "skills_needed": [
+      "Kafka",
+      "Spark",
+      "SQL",
+      "streaming pipelines",
+      "monitoring"
+    ],
+    "salary_fixed_approx_npr": 85000,
+    "day_of_job_closing": "2026-06-07"
+  },
+  {
+    "company_name": "CipherMind Nepal",
+    "location": "Kathmandu",
+    "job_title": "Cryptographer – Security Trials",
+    "role_type": "hacking_and_security",
+    "skills_needed": [
+      "Cryptography",
+      "hashing",
+      "encryption",
+      "protocol design",
+      "security testing"
+    ],
+    "salary_fixed_approx_npr": 115000,
+    "day_of_job_closing": "2026-06-08"
+  },
+  {
+    "company_name": "ReactHive",
+    "location": "Kathmandu",
+    "job_title": "React Engineer – Admin Panels",
+    "role_type": "frontend",
+    "skills_needed": [
+      "React",
+      "Redux",
+      "Styled‑components",
+      "APIs",
+      "accessibility"
+    ],
+    "salary_fixed_approx_npr": 62000,
+    "day_of_job_closing": "2026-06-09"
+  },
+  {
+    "company_name": "NodeNest Nepal",
+    "location": "Kathmandu",
+    "job_title": "Backend Engineer – Node Services",
+    "role_type": "programming",
+    "skills_needed": [
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "NestJS",
+      "testing"
+    ],
+    "salary_fixed_approx_npr": 78000,
+    "day_of_job_closing": "2026-06-10"
+  },
+  {
+    "company_name": "ScriptNest",
+    "location": "Kathmandu",
+    "job_title": "Automation Tester",
+    "role_type": "quality_assurance",
+    "skills_needed": [
+      "Selenium",
+      "Cypress",
+      "Jest",
+      "CI/CD integrations",
+      "test reporting"
+    ],
+    "salary_fixed_approx_npr": 58000,
+    "day_of_job_closing": "2026-06-11"
+  },
+  {
+    "company_name": "SoftNimbus",
+    "location": "Kathmandu",
+    "job_title": "Junior UI/UX Engineer",
+    "role_type": "frontend",
+    "skills_needed": [
+      "Figma",
+      "Adobe XD",
+      "HTML/CSS",
+      "basic React",
+      "prototype flows"
+    ],
+    "salary_fixed_approx_npr": 48000,
+    "day_of_job_closing": "2026-06-12"
+  },
+  {
+    "company_name": "CloudMosaic",
+    "location": "Kathmandu",
+    "job_title": "Multi‑Cloud Engineer",
+    "role_type": "cloud",
+    "skills_needed": [
+      "AWS",
+      "Azure",
+      "GCP",
+      "hybrid architecture",
+      "security and cost"
+    ],
+    "salary_fixed_approx_npr": 125000,
+    "day_of_job_closing": "2026-06-13"
+  },
+  {
+    "company_name": "DataHive Nepal",
+    "location": "Kathmandu",
+    "job_title": "Data Analyst – Web Analytics",
+    "role_type": "data_science",
+    "skills_needed": [
+      "SQL",
+      "Google Analytics",
+      "BigQuery",
+      "dashboards",
+      "traffic analysis"
+    ],
+    "salary_fixed_approx_npr": 60000,
+    "day_of_job_closing": "2026-06-14"
+  },
+  {
+    "company_name": "KernelVault",
+    "location": "Kathmandu",
+    "job_title": "Security Engineer – Internal Systems",
+    "role_type": "hacking_and_security",
+    "skills_needed": [
+      "firewall rules",
+      "log review",
+      "vulnerability patches",
+      "network segmentation",
+      "IAM basics"
+    ],
+    "salary_fixed_approx_npr": 72000,
+    "day_of_job_closing": "2026-06-15"
+  },
+  {
+    "company_name": "DevNimbus",
+    "location": "Kathmandu",
+    "job_title": "Platform Engineer – Internal Tools",
+    "role_type": "programming",
+    "skills_needed": [
+      "Python",
+      "APIs",
+      "automation",
+      "internal dashboards",
+      "DevEx"
+    ],
+    "salary_fixed_approx_npr": 70000,
+    "day_of_job_closing": "2026-06-16"
+  },
+  {
+    "company_name": "LogicNest",
+    "location": "Kathmandu",
+    "job_title": "Solutions Architect – FinTech",
+    "role_type": "programming",
+    "skills_needed": [
+      "system design",
+      "microservices",
+      "cloud",
+      "regulatory awareness",
+      "APIs"
+    ],
+    "salary_fixed_approx_npr": 130000,
+    "day_of_job_closing": "2026-06-17"
+  },
+  {
+    "company_name": "AegisHive",
+    "location": "Kathmandu",
+    "job_title": "Cybersecurity Consultant – SMEs",
+    "role_type": "hacking_and_security",
+    "skills_needed": [
+      "risk assessment",
+      "policy drafting",
+      "awareness training",
+      "basic pentesting",
+      "compliance"
+    ],
+    "salary_fixed_approx_npr": 80000,
+    "day_of_job_closing": "2026-06-18"
+  },
+  {
+    "company_name": "NexaBit Labs",
+    "location": "Kathmandu",
+    "job_title": "Full‑Stack Developer – Internal Tools",
+    "role_type": "programming",
+    "skills_needed": [
+      "JavaScript",
+      "Node.js",
+      "React",
+      "PostgreSQL",
+      "APIs"
+    ],
+    "salary_fixed_approx_npr": 70000,
+    "day_of_job_closing": "2026-06-19"
+  },
+  {
+    "company_name": "SecureBridge Nepal",
+    "location": "Kathmandu",
+    "job_title": "Security Engineer – Access Control",
+    "role_type": "hacking_and_security",
+    "skills_needed": [
+      "IAM",
+      "AD/Azure",
+      "MFA",
+      "RBAC design",
+      "log monitoring"
+    ],
+    "salary_fixed_approx_npr": 85000,
+    "day_of_job_closing": "2026-06-20"
+  },
+  {
+    "company_name": "DataHaven Nepal",
+    "location": "Kathmandu",
+    "job_title": "ETL Engineer",
+    "role_type": "data_engineering",
+    "skills_needed": [
+      "SQL",
+      "Python",
+      "Airflow",
+      "dbt",
+      "cloud storage"
+    ],
+    "salary_fixed_approx_npr": 72000,
+    "day_of_job_closing": "2026-06-21"
+  },
+  {
+    "company_name": "CloudHive Tech",
+    "location": "Kathmandu",
+    "job_title": "Cloud Engineer – Azure",
+    "role_type": "cloud",
+    "skills_needed": [
+      "Azure",
+      "VMs",
+      "Storage",
+      "Networking",
+      "security basics"
+    ],
+    "salary_fixed_approx_npr": 90000,
+    "day_of_job_closing": "2026-06-22"
+  },
+  {
+    "company_name": "LogicVault Systems",
+    "location": "Kathmandu",
+    "job_title": "Systems Analyst – IT",
+    "role_type": "it_operations",
+    "skills_needed": [
+      "requirements gathering",
+      "workflow mapping",
+      "SQL",
+      "documentation",
+      "basic scripting"
+    ],
+    "salary_fixed_approx_npr": 60000,
+    "day_of_job_closing": "2026-06-23"
+  },
+  {
+    "company_name": "PixelNest Nepal",
+    "location": "Kathmandu",
+    "job_title": "Visual Engineer – UI + Animation",
+    "role_type": "frontend",
+    "skills_needed": [
+      "Figma",
+      "React",
+      "GSAP",
+      "SVG",
+      "performant UI"
+    ],
+    "salary_fixed_approx_npr": 65000,
+    "day_of_job_closing": "2026-06-24"
+  },
+  {
+    "company_name": "ScriptNimbus",
+    "location": "Kathmandu",
+    "job_title": "Automation Engineer – Finance",
+    "role_type": "automation",
+    "skills_needed": [
+      "Python",
+      "Excel macros",
+      "APIs",
+      "reconciliation",
+      "scheduled jobs"
+    ],
+    "salary_fixed_approx_npr": 58000,
+    "day_of_job_closing": "2026-06-25"
+  },
+  {
+    "company_name": "NetHive Nepal",
+    "location": "Kathmandu",
+    "job_title": "Network Engineer – Data Center",
+    "role_type": "network",
+    "skills_needed": [
+      "routers",
+      "switches",
+      "VLANs",
+      "monitoring",
+      "ticketing"
+    ],
+    "salary_fixed_approx_npr": 73000,
+    "day_of_job_closing": "2026-06-26"
+  },
+  {
+    "company_name": "CodeFusion Nepal",
+    "location": "Kathmandu",
+    "job_title": "Backend Engineer – Microservices",
+    "role_type": "programming",
+    "skills_needed": [
+      "Java",
+      "Spring Boot",
+      "Kafka",
+      "containers",
+      "observability"
+    ],
+    "salary_fixed_approx_npr": 95000,
+    "day_of_job_closing": "2026-06-27"
+  },
+  {
+    "company_name": "NovaCore Labs",
+    "location": "Kathmandu",
+    "job_title": "DevOps Engineer – Kubernetes",
+    "role_type": "devops",
+    "skills_needed": [
+      "Kubernetes",
+      "Helm",
+      "Prometheus",
+      "logs",
+      "CI/CD"
+    ],
+    "salary_fixed_approx_npr": 92000,
+    "day_of_job_closing": "2026-06-28"
+  },
+  {
+    "company_name": "CipherHive Nepal",
+    "location": "Kathmandu",
+    "job_title": "Security Analyst – Threat Hunting",
+    "role_type": "hacking_and_security",
+    "skills_needed": [
+      "SIEM",
+      "EDR",
+      "log analysis",
+      "IOC hunting",
+      "timeline reconstruction"
+    ],
+    "salary_fixed_approx_npr": 88000,
+    "day_of_job_closing": "2026-06-29"
+  },
+  {
+    "company_name": "QuantumNest",
+    "location": "Kathmandu",
+    "job_title": "ML Engineer – Recommendation Systems",
+    "role_type": "data_science",
+    "skills_needed": [
+      "Python",
+      "PyTorch",
+      "pandas",
+      "APIs",
+      "A/B testing"
+    ],
+    "salary_fixed_approx_npr": 115000,
+    "day_of_job_closing": "2026-06-30"
+  },
+  {
+    "company_name": "DataNest Labs",
+    "location": "Kathmandu",
+    "job_title": "Business Intelligence Engineer",
+    "role_type": "data_science",
+    "skills_needed": [
+      "SQL",
+      "Tableau",
+      "ETL",
+      "data modeling",
+      "KPIs"
+    ],
+    "salary_fixed_approx_npr": 70000,
+    "day_of_job_closing": "2026-07-01"
+  },
+  {
+    "company_name": "CloudNexus Nepal",
+    "location": "Kathmandu",
+    "job_title": "Platform Engineer – AWS",
+    "role_type": "cloud",
+    "skills_needed": [
+      "AWS",
+      "Lambda",
+      "Step Functions",
+      "IAM",
+      "logging"
+    ],
+    "salary_fixed_approx_npr": 95000,
+    "day_of_job_closing": "2026-07-02"
+  },
+  {
+    "company_name": "KernelNest",
+    "location": "Kathmandu",
+    "job_title": "Systems Engineer – On‑Prem",
+    "role_type": "it_operations",
+    "skills_needed": [
+      "Windows Server",
+      "Linux",
+      "backup",
+      "monitoring",
+      "documentation"
+    ],
+    "salary_fixed_approx_npr": 65000,
+    "day_of_job_closing": "2026-07-03"
+  },
+  {
+    "company_name": "DevNexus Nepal",
+    "location": "Kathmandu",
+    "job_title": "Product Engineer – APIs",
+    "role_type": "programming",
+    "skills_needed": [
+      "Node.js",
+      "PostgreSQL",
+      "REST/GraphQL",
+      "testing",
+      "documentation"
+    ],
+    "salary_fixed_approx_npr": 78000,
+    "day_of_job_closing": "2026-07-04"
+  },
+  {
+    "company_name": "ScriptVault Nepal",
+    "location": "Kathmandu",
+    "job_title": "Automation Engineer – Monitoring",
+    "role_type": "automation",
+    "skills_needed": [
+      "Python",
+      "Prometheus",
+      "Grafana",
+      "alerts",
+      "run‑books"
+    ],
+    "salary_fixed_approx_npr": 62000,
+    "day_of_job_closing": "2026-07-05"
+  },
+  {
+    "company_name": "LogicHaven Nepal",
+    "location": "Kathmandu",
+    "job_title": "IT Support Engineer – Developer Environment",
+    "role_type": "it_operations",
+    "skills_needed": [
+      "macOS/Windows",
+      "Linux",
+      "VPN",
+      "IDE support",
+      "troubleshooting"
+    ],
+    "salary_fixed_approx_npr": 50000,
+    "day_of_job_closing": "2026-07-06"
+  },
+  {
+    "company_name": "NetNimbus Nepal",
+    "location": "Kathmandu",
+    "job_title": "Network Security Specialist",
+    "role_type": "network_and_security",
+    "skills_needed": [
+      "firewalls",
+      "IDS/IPS",
+      "NAC",
+      "logging",
+      "policy enforcement"
+    ],
+    "salary_fixed_approx_npr": 75000,
+    "day_of_job_closing": "2026-07-07"
+  },
+  {
+    "company_name": "CipherNest",
+    "location": "Kathmandu",
+    "job_title": "Vulnerability Management Engineer",
+    "role_type": "hacking_and_security",
+    "skills_needed": [
+      "scanner tools",
+      "asset inventory",
+      "remediation tracking",
+      "risk ranking",
+      "reports"
+    ],
+    "salary_fixed_approx_npr": 73000,
+    "day_of_job_closing": "2026-07-08"
+  },
+  {
+    "company_name": "FrontierNest",
+    "location": "Kathmandu",
+    "job_title": "Frontend Engineer – Admin Frontend",
+    "role_type": "frontend",
+    "skills_needed": [
+      "React",
+      "Typescript",
+      "Redux",
+      "forms",
+      "accessibility"
+    ],
+    "salary_fixed_approx_npr": 66000,
+    "day_of_job_closing": "2026-07-09"
+  },
+  {
+    "company_name": "CodeNimbus Nepal",
+    "location": "Kathmandu",
+    "job_title": "Junior Backend Developer",
+    "role_type": "programming",
+    "skills_needed": [
+      "JavaScript",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Git"
+    ],
+    "salary_fixed_approx_npr": 48000,
+    "day_of_job_closing": "2026-07-10"
+  },
+  {
+    "company_name": "CloudNest Labs",
+    "location": "Kathmandu",
+    "job_title": "Cloud Compliance Engineer",
+    "role_type": "cloud",
+    "skills_needed": [
+      "AWS/GCP",
+      "access control",
+      "logging",
+      "compliance checks",
+      "documentation"
+    ],
+    "salary_fixed_approx_npr": 82000,
+    "day_of_job_closing": "2026-07-11"
+  },
+  {
+    "company_name": "DataCore Nepal",
+    "location": "Kathmandu",
+    "job_title": "Data Engineer – Batch Pipelines",
+    "role_type": "data_engineering",
+    "skills_needed": [
+      "SQL",
+      "Python",
+      "cron jobs",
+      "data validation",
+      "error logging"
+    ],
+    "salary_fixed_approx_npr": 68000,
+    "day_of_job_closing": "2026-07-12"
+  },
+  {
+    "company_name": "LogicNexus Labs",
+    "location": "Kathmandu",
+    "job_title": "Technical Lead – Backend",
+    "role_type": "programming",
+    "skills_needed": [
+      "design",
+      "microservices",
+      "code review",
+      "mentoring",
+      "performance"
+    ],
+    "salary_fixed_approx_npr": 130000,
+    "day_of_job_closing": "2026-07-13"
+  },
+  {
+    "company_name": "PixelVault Nepal",
+    "location": "Kathmandu",
+    "job_title": "UI Engineer – Dashboarding",
+    "role_type": "frontend",
+    "skills_needed": [
+      "React",
+      "D3.js",
+      "charts",
+      "realtime data",
+      "responsive design"
+    ],
+    "salary_fixed_approx_npr": 70000,
+    "day_of_job_closing": "2026-07-14"
+  },
+  {
+    "company_name": "KernelHaven Nepal",
+    "location": "Kathmandu",
+    "job_title": "Systems Architect",
+    "role_type": "it_operations",
+    "skills_needed": [
+      "Linux",
+      "capacity planning",
+      "high availability",
+      "DR",
+      "design docs"
+    ],
+    "salary_fixed_approx_npr": 120000,
+    "day_of_job_closing": "2026-07-15"
+  },
+  {
+    "company_name": "CipherCore Nepal",
+    "location": "Kathmandu",
+    "job_title": "Incident Response Analyst",
+    "role_type": "hacking_and_security",
+    "skills_needed": [
+      "containment",
+      "forensics basics",
+      "timeline",
+      "SIEM",
+      "reports"
+    ],
+    "salary_fixed_approx_npr": 78000,
+    "day_of_job_closing": "2026-07-16"
+  },
+  {
+    "company_name": "ScriptHaven",
+    "location": "Kathmandu",
+    "job_title": "Infrastructure Scripting Engineer",
+    "role_type": "automation",
+    "skills_needed": [
+      "Python",
+      "Bash",
+      "Ansible",
+      "Terraform",
+      "CI/CD"
+    ],
+    "salary_fixed_approx_npr": 80000,
+    "day_of_job_closing": "2026-07-17"
+  },
+  {
+    "company_name": "NetVault Nepal",
+    "location": "Kathmandu",
+    "job_title": "ISP Network Engineer",
+    "role_type": "network",
+    "skills_needed": [
+      "routing",
+      "switching",
+      "BGP basics",
+      "troubleshooting",
+      "documentation"
+    ],
+    "salary_fixed_approx_npr": 75000,
+    "day_of_job_closing": "2026-07-18"
+  },
+  {
+    "company_name": "QuantumNimbus",
+    "location": "Kathmandu",
+    "job_title": "MLOps Engineer",
+    "role_type": "data_science",
+    "skills_needed": [
+      "ML pipelines",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "monitoring"
+    ],
+    "salary_fixed_approx_npr": 110000,
+    "day_of_job_closing": "2026-07-19"
+  },
+  {
+    "company_name": "CodeVault Nepal",
+    "location": "Kathmandu",
+    "job_title": "Security‑Focused Backend Developer",
+    "role_type": "programming",
+    "skills_needed": [
+      "Java/Node",
+      "auth flows",
+      "rate limiting",
+      "secure APIs",
+      "OWASP"
+    ],
+    "salary_fixed_approx_npr": 90000,
+    "day_of_job_closing": "2026-07-20"
+  },
+  {
+    "company_name": "CloudCore Nepal",
+    "location": "Kathmandu",
+    "job_title": "SRE – Cloud Services",
+    "role_type": "devops",
+    "skills_needed": [
+      "Kubernetes",
+      "metrics",
+      "SLOs",
+      "incident management",
+      "automation"
+    ],
+    "salary_fixed_approx_npr": 115000,
+    "day_of_job_closing": "2026-07-21"
+  },
+  {
+    "company_name": "DataNimbus Nepal",
+    "location": "Kathmandu",
+    "job_title": "Data Quality Engineer",
+    "role_type": "data_engineering",
+    "skills_needed": [
+      "SQL",
+      "Python",
+      "validation rules",
+      "testing",
+      "monitoring"
+    ],
+    "salary_fixed_approx_npr": 65000,
+    "day_of_job_closing": "2026-07-22"
+  },
+  {
+    "company_name": "LogicHive Nepal",
+    "location": "Kathmandu",
+    "job_title": "Low‑Code / No‑Code Engineer",
+    "role_type": "programming",
+    "skills_needed": [
+      "Mendix/OutSystems",
+      "integration",
+      "basic coding",
+      "UI flows",
+      "documentation"
+    ],
+    "salary_fixed_approx_npr": 60000,
+    "day_of_job_closing": "2026-07-23"
+  },
+  {
+    "company_name": "NetNexus Labs",
+    "location": "Kathmandu",
+    "job_title": "Network Architect",
+    "role_type": "network",
+    "skills_needed": [
+      "topology design",
+      "routing protocols",
+      "firewall policy",
+      "WAN/LAN",
+      "documentation"
+    ],
+    "salary_fixed_approx_npr": 110000,
+    "day_of_job_closing": "2026-07-23"
+  },
+  {
+    "company_name": "PixelNexus Nepal",
+    "location": "Kathmandu",
+    "job_title": "UI/UX Engineer – Product",
+    "role_type": "frontend",
+    "skills_needed": [
+      "Figma",
+      "React",
+      "component design",
+      "accessibility",
+      "design system"
+    ],
+    "salary_fixed_approx_npr": 68000,
+    "day_of_job_closing": "2026-07-24"
+  },
+  {
+    "company_name": "ScriptNexus",
+    "location": "Kathmandu",
+    "job_title": "Infrastructure Automation Engineer",
+    "role_type": "automation",
+    "skills_needed": [
+      "Ansible",
+      "Terraform",
+      "Python",
+      "CI/CD",
+      "cloud"
+    ],
+    "salary_fixed_approx_npr": 82000,
+    "day_of_job_closing": "2026-07-25"
+  },
+  {
+    "company_name": "DataNexus Labs",
+    "location": "Kathmandu",
+    "job_title": "Data Engineer – Realtime",
+    "role_type": "data_engineering",
+    "skills_needed": [
+      "Kafka",
+      "Flink",
+      "SQL",
+      "dashboards",
+      "error handling"
+    ],
+    "salary_fixed_approx_npr": 85000,
+    "day_of_job_closing": "2026-07-26"
+  },
+  {
+    "company_name": "CipherNexus Nepal",
+    "location": "Kathmandu",
+    "job_title": "Red Team Operative",
+    "role_type": "hacking_and_security",
+    "skills_needed": [
+      "pentesting",
+      "malware analysis basics",
+      "obfuscation",
+      "reporting",
+      "defense evasion"
+    ],
+    "salary_fixed_approx_npr": 100000,
+    "day_of_job_closing": "2026-07-27"
+  },
+  {
+    "company_name": "LogicNexus Nepal",
+    "location": "Kathmandu",
+    "job_title": "Solutions Architect – Cloud",
+    "role_type": "cloud",
+    "skills_needed": [
+      "AWS/Azure",
+      "high‑availability",
+      "cost modeling",
+      "security posture",
+      "documentation"
+    ],
+    "salary_fixed_approx_npr": 130000,
+    "day_of_job_closing": "2026-07-28"
+  },
+  {
+    "company_name": "KernelNexus Nepal",
+    "location": "Kathmandu",
+    "job_title": "BKUP & Disaster Recovery Engineer",
+    "role_type": "it_operations",
+    "skills_needed": [
+      "backup tools",
+      "replication",
+      "DR planning",
+      "testing",
+      "documentation"
+    ],
+    "salary_fixed_approx_npr": 70000,
+    "day_of_job_closing": "2026-07-29"
+  },
+  {
+    "company_name": "CloudNexus Labs",
+    "location": "Kathmandu",
+    "job_title": "Cloud Network Engineer",
+    "role_type": "cloud",
+    "skills_needed": [
+      "VPC",
+      "routes",
+      "peering",
+      "security groups",
+      "monitoring"
+    ],
+    "salary_fixed_approx_npr": 90000,
+    "day_of_job_closing": "2026-07-30"
+  },
+  {
+    "company_name": "QuantumNexus Nepal",
+    "location": "Kathmandu",
+    "job_title": "AI Research Engineer",
+    "role_type": "data_science",
+    "skills_needed": [
+      "Python",
+      "PyTorch",
+      "research",
+      "paper reading",
+      "experiment tracking"
+    ],
+    "salary_fixed_approx_npr": 125000,
+    "day_of_job_closing": "2026-07-31"
+  },
+  {
+    "company_name": "CodeNexus Labs",
+    "location": "Kathmandu",
+    "job_title": "Senior API Engineer",
+    "role_type": "programming",
+    "skills_needed": [
+      "REST/GraphQL",
+      "rate limiting",
+      "throttling",
+      "documentation",
+      "testing"
+    ],
+    "salary_fixed_approx_npr": 95000,
+    "day_of_job_closing": "2026-08-01"
+  },
+  {
+    "company_name": "NetVault Labs",
+    "location": "Kathmandu",
+    "job_title": "ISP Operations Engineer",
+    "role_type": "network",
+    "skills_needed": [
+      "BGP",
+      "routing",
+      "troubleshooting",
+      "customer tickets",
+      "SLA handling"
+    ],
+    "salary_fixed_approx_npr": 78000,
+    "day_of_job_closing": "2026-08-02"
+  },
+  {
+    "company_name": "ScriptHive Nepal",
+    "location": "Kathmandu",
+    "job_title": "Workflow Automation Engineer",
+    "role_type": "automation",
+    "skills_needed": [
+      "Python",
+      "Airtable",
+      "Zapier",
+      "APIs",
+      "process mapping"
+    ],
+    "salary_fixed_approx_npr": 60000,
+    "day_of_job_closing": "2026-08-03"
+  },
+  {
+    "company_name": "LogicVault Labs",
+    "location": "Kathmandu",
+    "job_title": "Business Process Engineer – Tech",
+    "role_type": "programming",
+    "skills_needed": [
+      "process mapping",
+      "automation",
+      "SQL",
+      "dashboards",
+      "communication"
+    ],
+    "salary_fixed_approx_npr": 65000,
+    "day_of_job_closing": "2026-08-04"
+  },
+  {
+    "company_name": "KernelVault Labs",
+    "location": "Kathmandu",
+    "job_title": "Linux Systems Engineer",
+    "role_type": "it_operations",
+    "skills_needed": [
+      "Ubuntu",
+      "system hardening",
+      "monitoring",
+      "scripting",
+      "troubleshooting"
+    ],
+    "salary_fixed_approx_npr": 68000,
+    "day_of_job_closing": "2026-08-05"
+  },
+  {
+    "company_name": "DataNest Labs",
+    "location": "Kathmandu",
+    "job_title": "Data Governance Associate",
+    "role_type": "data_science",
+    "skills_needed": [
+      "metadata",
+      "data quality",
+      "policy",
+      "SQL",
+      "collaboration"
+    ],
+    "salary_fixed_approx_npr": 58000,
+    "day_of_job_closing": "2026-08-06"
+  },
+  {
+    "company_name": "CipherHaven Labs",
+    "location": "Kathmandu",
+    "job_title": "Blue Team Analyst",
+    "role_type": "hacking_and_security",
+    "skills_needed": [
+      "SIEM",
+      "IDS",
+      "EDR",
+      "alert triage",
+      "playbooks"
+    ],
+    "salary_fixed_approx_npr": 72000,
+    "day_of_job_closing": "2026-08-07"
+  },
+  {
+    "company_name": "CloudNest Labs",
+    "location": "Kathmandu",
+    "job_title": "Cloud Cost Engineer",
+    "role_type": "cloud",
+    "skills_needed": [
+      "billing",
+      "tagging",
+      "rightsizing",
+      "forecasting",
+      "automated cleanup"
+    ],
+    "salary_fixed_approx_npr": 80000,
+    "day_of_job_closing": "2026-08-08"
+  },
+  {
+    "company_name": "NetNest Nepal",
+    "location": "Kathmandu",
+    "job_title": "ISP Frontline Engineer",
+    "role_type": "network",
+    "skills_needed": [
+      "cable",
+      "ONT",
+      "home networking",
+      "support",
+      "documentation"
+    ],
+    "salary_fixed_approx_npr": 45000,
+    "day_of_job_closing": "2026-08-09"
+  },
+  {
+    "company_name": "ScriptNest Labs",
+    "location": "Kathmandu",
+    "job_title": "Data Pipeline Developer",
+    "role_type": "data_engineering",
+    "skills_needed": [
+      "SQL",
+      "Python",
+      "Airflow",
+      "BigQuery",
+      "error alerts"
+    ],
+    "salary_fixed_approx_npr": 70000,
+    "day_of_job_closing": "2026-08-10"
+  },
+  {
+    "company_name": "PixelNest Labs",
+    "location": "Kathmandu",
+    "job_title": "Design Engineer – Prototyping",
+    "role_type": "frontend",
+    "skills_needed": [
+      "Figma",
+      "interactive prototype",
+      "React basics",
+      "wireframes",
+      "user flows"
+    ],
+    "salary_fixed_approx_npr": 55000,
+    "day_of_job_closing": "2026-08-11"
+  },
+  {
+    "company_name": "KernelNest Nepal",
+    "location": "Kathmandu",
+    "job_title": "Server Monitoring Engineer",
+    "role_type": "it_operations",
+    "skills_needed": [
+      "Zabbix",
+      "Prometheus",
+      "Grafana",
+      "alerts",
+      "run‑books"
+    ],
+    "salary_fixed_approx_npr": 58000,
+    "day_of_job_closing": "2026-08-12"
+  },
+  {
+    "company_name": "DataNimbus Labs",
+    "location": "Kathmandu",
+    "job_title": "Analytics Engineer – Funnel",
+    "role_type": "data_science",
+    "skills_needed": [
+      "SQL",
+      "funnel analysis",
+      "Dashboard",
+      "A/B metrics",
+      "documentation"
+    ],
+    "salary_fixed_approx_npr": 65000,
+    "day_of_job_closing": "2026-08-13"
+  },
+  {
+    "company_name": "CipherNimbus Nepal",
+    "location": "Kathmandu",
+    "job_title": "Policy & Compliance Engineer",
+    "role_type": "hacking_and_security",
+    "skills_needed": [
+      "ISO 27001",
+      "NIST",
+      "RMF",
+      "documentation",
+      "audits"
+    ],
+    "salary_fixed_approx_npr": 75000,
+    "day_of_job_closing": "2026-08-14"
+  },
+  {
+    "company_name": "ScriptNimbus Labs",
+    "location": "Kathmandu",
+    "job_title": "CI/CD Pipeline Engineer",
+    "role_type": "automation",
+    "skills_needed": [
+      "Jenkins",
+      "GitHub Actions",
+      "Docker",
+      "tests",
+      "artifacts"
+    ],
+    "salary_fixed_approx_npr": 83000,
+    "day_of_job_closing": "2026-08-15"
+  },
+  {
+    "company_name": "QuantumVault Nepal",
+    "location": "Kathmandu",
+    "job_title": "Research & Development Engineer – AI",
+    "role_type": "data_science",
+    "skills_needed": [
+      "Python",
+      "LLM APIs",
+      "experimentation",
+      "Git",
+      "documentation"
+    ],
+    "salary_fixed_approx_npr": 120000,
+    "day_of_job_closing": "2026-08-16"
+  },
+  {
+    "company_name": "LogicHaven Labs",
+    "location": "Kathmandu",
+    "job_title": "Technical Writer – Developer Docs",
+    "role_type": "programming",
+    "skills_needed": [
+      "Markdown",
+      "APIs",
+      "Git",
+      "clear writing",
+      "editors"
+    ],
+    "salary_fixed_approx_npr": 52000,
+    "day_of_job_closing": "2026-08-17"
+  },
+  {
+    "company_name": "CodeNimble Nepal",
+    "location": "Kathmandu",
+    "job_title": "Agile Delivery Engineer",
+    "role_type": "programming",
+    "skills_needed": [
+      "Scrum",
+      "Kanban",
+      "tools",
+      "coordination",
+      "metrics"
+    ],
+    "salary_fixed_approx_npr": 60000,
+    "day_of_job_closing": "2026-08-18"
+  },
+  {
+    "company_name": "NetNest Labs",
+    "location": "Kathmandu",
+    "job_title": "ISP Core Network Engineer",
+    "role_type": "network",
+    "skills_needed": [
+      "MPLS",
+      "routing",
+      "Juniper",
+      "troubleshooting",
+      "documentation"
+    ],
+    "salary_fixed_approx_npr": 85000,
+    "day_of_job_closing": "2026-08-19"
+  },
+  {
+    "company_name": "NexaVault Nepal",
+    "location": "Kathmandu",
+    "job_title": "Backend Engineer – Messaging Platform",
+    "role_type": "programming",
+    "skills_needed": [
+      "Node.js",
+      "WebSocket",
+      "PostgreSQL",
+      "APIs",
+      "chat logic"
+    ],
+    "salary_fixed_approx_npr": 80000,
+    "day_of_job_closing": "2026-08-20"
+  },
+  {
+    "company_name": "CipherNest Labs",
+    "location": "Kathmandu",
+    "job_title": "Security Engineer – Web Application Firewall",
+    "role_type": "hacking_and_security",
+    "skills_needed": [
+      "WAF rules",
+      "modsecurity",
+      "SIEM",
+      "log analysis",
+      "incident response"
+    ],
+    "salary_fixed_approx_npr": 85000,
+    "day_of_job_closing": "2026-08-21"
+  },
+  {
+    "company_name": "DataNexus Vault",
+    "location": "Kathmandu",
+    "job_title": "Data Governance Engineer",
+    "role_type": "data_science",
+    "skills_needed": [
+      "metadata",
+      "data catalog",
+      "policy",
+      "SQL",
+      "dashboards"
+    ],
+    "salary_fixed_approx_npr": 70000,
+    "day_of_job_closing": "2026-08-22"
+  },
+  {
+    "company_name": "CloudNest Vault",
+    "location": "Kathmandu",
+    "job_title": "Cloud Security Engineer",
+    "role_type": "cloud",
+    "skills_needed": [
+      "AWS/GCP",
+      "IAM",
+      "logging",
+      "compliance",
+      "remediation"
+    ],
+    "salary_fixed_approx_npr": 95000,
+    "day_of_job_closing": "2026-08-23"
+  },
+  {
+    "company_name": "KernelNest Labs",
+    "location": "Kathmandu",
+    "job_title": "Linux DevOps Engineer",
+    "role_type": "devops",
+    "skills_needed": [
+      "Linux",
+      "Docker",
+      "Kubernetes",
+      "ArgoCD",
+      "monitoring"
+    ],
+    "salary_fixed_approx_npr": 88000,
+    "day_of_job_closing": "2026-08-24"
+  },
+  {
+    "company_name": "ScriptNest Vault",
+    "location": "Kathmandu",
+    "job_title": "Infrastructure Automation Engineer – Banking",
+    "role_type": "automation",
+    "skills_needed": [
+      "Ansible",
+      "Postman",
+      "SQL",
+      "scripts",
+      "documentation"
+    ],
+    "salary_fixed_approx_npr": 75000,
+    "day_of_job_closing": "2026-08-25"
+  },
+  {
+    "company_name": "NetNexus Vault",
+    "location": "Kathmandu",
+    "job_title": "Enterprise Network Engineer",
+    "role_type": "network",
+    "skills_needed": [
+      "Cisco",
+      "routing",
+      "firewall",
+      "VPN",
+      "documentation"
+    ],
+    "salary_fixed_approx_npr": 82000,
+    "day_of_job_closing": "2026-08-26"
+  },
+  {
+    "company_name": "QuantumNest Vault",
+    "location": "Kathmandu",
+    "job_title": "Machine Learning Production Engineer",
+    "role_type": "data_science",
+    "skills_needed": [
+      "Python",
+      "ML",
+      "API",
+      "Docker",
+      "monitoring"
+    ],
+    "salary_fixed_approx_npr": 110000,
+    "day_of_job_closing": "2026-08-27"
+  },
+  {
+    "company_name": "LogicNest Vault",
+    "location": "Kathmandu",
+    "job_title": "Solutions Engineer – ERP",
+    "role_type": "programming",
+    "skills_needed": [
+      "Java/C#",
+      "ERP",
+      "SQL",
+      "APIs",
+      "client support"
+    ],
+    "salary_fixed_approx_npr": 85000,
+    "day_of_job_closing": "2026-08-28"
+  },
+  {
+    "company_name": "PixelNest Vault",
+    "location": "Kathmandu",
+    "job_title": "UI Engineer – Admin Dashboard",
+    "role_type": "frontend",
+    "skills_needed": [
+      "React",
+      "charts",
+      "forms",
+      "accessibility",
+      "UX"
+    ],
+    "salary_fixed_approx_npr": 65000,
+    "day_of_job_closing": "2026-08-29"
+  },
+  {
+    "company_name": "CodeNest Vault",
+    "location": "Kathmandu",
+    "job_title": "Software Engineer – Banking APIs",
+    "role_type": "programming",
+    "skills_needed": [
+      "Java",
+      "Spring Boot",
+      "Oracle",
+      "payment APIs",
+      "security reviews"
+    ],
+    "salary_fixed_approx_npr": 92000,
+    "day_of_job_closing": "2026-08-30"
+  },
+  {
+    "company_name": "CloudVault Labs",
+    "location": "Kathmandu",
+    "job_title": "Cloud Migration Engineer",
+    "role_type": "cloud",
+    "skills_needed": [
+      "AWS",
+      "GCP",
+      "lift‑and‑shift",
+      "testing",
+      "documentation"
+    ],
+    "salary_fixed_approx_npr": 90000,
+    "day_of_job_closing": "2026-08-31"
+  },
+  {
+    "company_name": "NetVault Vault",
+    "location": "Kathmandu",
+    "job_title": "ISP Planning Engineer",
+    "role_type": "network",
+    "skills_needed": [
+      "network design",
+      "capacity planning",
+      "routing",
+      "documentation",
+      "coordination"
+    ],
+    "salary_fixed_approx_npr": 78000,
+    "day_of_job_closing": "2026-09-01"
+  },
+  {
+    "company_name": "DataHive Vault",
+    "location": "Kathmandu",
+    "job_title": "Data Platform Engineer",
+    "role_type": "data_engineering",
+    "skills_needed": [
+      "BigQuery",
+      "Snowflake",
+      "ETL",
+      "airflow",
+      "monitoring"
+    ],
+    "salary_fixed_approx_npr": 85000,
+    "day_of_job_closing": "2026-09-02"
+  },
+  {
+    "company_name": "CipherHive Vault",
+    "location": "Kathmandu",
+    "job_title": "Threat Intelligence Engineer",
+    "role_type": "hacking_and_security",
+    "skills_needed": [
+      "feeds",
+      "indicators",
+      "SOC",
+      "reporting",
+      "automation"
+    ],
+    "salary_fixed_approx_npr": 80000,
+    "day_of_job_closing": "2026-09-03"
+  },
+  {
+    "company_name": "KernelVault Vault",
+    "location": "Kathmandu",
+    "job_title": "Systems Recovery Engineer",
+    "role_type": "it_operations",
+    "skills_needed": [
+      "backup",
+      "snapshot",
+      "bare‑metal",
+      "documentation",
+      "SLA"
+    ],
+    "salary_fixed_approx_npr": 65000,
+    "day_of_job_closing": "2026-09-04"
+  },
+  {
+    "company_name": "ScriptVault Labs",
+    "location": "Kathmandu",
+    "job_title": "CI/CD Configuration Engineer",
+    "role_type": "automation",
+    "skills_needed": [
+      "GitHub Actions",
+      "GitLab CI",
+      "Flyway",
+      "tests",
+      "security checks"
+    ],
+    "salary_fixed_approx_npr": 75000,
+    "day_of_job_closing": "2026-09-05"
+  },
+  {
+    "company_name": "LogicVault Vault",
+    "location": "Kathmandu",
+    "job_title": "Technical Sales Engineer – Cloud",
+    "role_type": "cloud",
+    "skills_needed": [
+      "cloud",
+      "presentations",
+      "architecture",
+      "API demos",
+      "communication"
+    ],
+    "salary_fixed_approx_npr": 72000,
+    "day_of_job_closing": "2026-09-06"
+  },
+  {
+    "company_name": "PixelVault Labs",
+    "location": "Kathmandu",
+    "job_title": "Product UX Engineer",
+    "role_type": "frontend",
+    "skills_needed": [
+      "Figma",
+      "React",
+      "user flows",
+      "A/B basics",
+      "analytics"
+    ],
+    "salary_fixed_approx_npr": 70000,
+    "day_of_job_closing": "2026-09-07"
+  },
+  {
+    "company_name": "NexaScript Nepal",
+    "location": "Kathmandu",
+    "job_title": "Workflow Automation Specialist",
+    "role_type": "automation",
+    "skills_needed": [
+      "Power Automate",
+      "Zapier",
+      "scripts",
+      "coordination",
+      "documentation"
+    ],
+    "salary_fixed_approx_npr": 60000,
+    "day_of_job_closing": "2026-09-08"
+  },
+  {
+    "company_name": "CipherNest Vault",
+    "location": "Kathmandu",
+    "job_title": "Penetration Tester – Mobile",
+    "role_type": "hacking_and_security",
+    "skills_needed": [
+      "Android",
+      "iOS",
+      "OWASP MASVS",
+      "dynamic analysis",
+      "reports"
+    ],
+    "salary_fixed_approx_npr": 90000,
+    "day_of_job_closing": "2026-09-09"
+  },
+  {
+    "company_name": "DataNest Vault",
+    "location": "Kathmandu",
+    "job_title": "Analytics Engineer – E‑commerce",
+    "role_type": "data_science",
+    "skills_needed": [
+      "SQL",
+      "funnels",
+      "A/B",
+      "dashboards",
+      "documentation"
+    ],
+    "salary_fixed_approx_npr": 70000,
+    "day_of_job_closing": "2026-09-10"
+  },
+  {
+    "company_name": "CloudNest Vault",
+    "location": "Kathmandu",
+    "job_title": "Cloud Governance Engineer",
+    "role_type": "cloud",
+    "skills_needed": [
+      "IAM",
+      "tagging",
+      "policies",
+      "auditing",
+      "documentation"
+    ],
+    "salary_fixed_approx_npr": 88000,
+    "day_of_job_closing": "2026-09-11"
+  },
+  {
+    "company_name": "KernelNest Vault",
+    "location": "Kathmandu",
+    "job_title": "Host Security Engineer",
+    "role_type": "it_operations",
+    "skills_needed": [
+      "Linux/Windows",
+      "hardening",
+      "patches",
+      "EDR",
+      "monitoring"
+    ],
+    "salary_fixed_approx_npr": 72000,
+    "day_of_job_closing": "2026-09-12"
+  },
+  {
+    "company_name": "ScriptNest Vault",
+    "location": "Kathmandu",
+    "job_title": "API Automation Engineer",
+    "role_type": "automation",
+    "skills_needed": [
+      "Postman",
+      "Jest",
+      "Python",
+      "collections",
+      "CI/CD"
+    ],
+    "salary_fixed_approx_npr": 68000,
+    "day_of_job_closing": "2026-09-13"
+  },
+  {
+    "company_name": "NetNest Vault",
+    "location": "Kathmandu",
+    "job_title": "ISP Service Engineer",
+    "role_type": "network",
+    "skills_needed": [
+      "FoC",
+      "ONT",
+      "LAN",
+      "troubleshooting",
+      "documentation"
+    ],
+    "salary_fixed_approx_npr": 50000,
+    "day_of_job_closing": "2026-09-14"
+  },
+  {
+    "company_name": "QuantumNest Labs",
+    "location": "Kathmandu",
+    "job_title": "AI Platform Engineer",
+    "role_type": "data_science",
+    "skills_needed": [
+      "Python",
+      "Kubernetes",
+      "ML APIs",
+      "monitoring",
+      "CI/CD"
+    ],
+    "salary_fixed_approx_npr": 115000,
+    "day_of_job_closing": "2026-09-15"
+  },
+  {
+    "company_name": "LogicNest Labs",
+    "location": "Kathmandu",
+    "job_title": "Technical Product Manager",
+    "role_type": "programming",
+    "skills_needed": [
+      "APIs",
+      "roadmaps",
+      "coordination",
+      "analytics",
+      "communication"
+    ],
+    "salary_fixed_approx_npr": 85000,
+    "day_of_job_closing": "2026-09-16"
+  },
+  {
+    "company_name": "CodeNest Vault",
+    "location": "Kathmandu",
+    "job_title": "Platform Engineer – Payments",
+    "role_type": "programming",
+    "skills_needed": [
+      "Java/Node",
+      "payment APIs",
+      "reconciliation",
+      "monitoring",
+      "security"
+    ],
+    "salary_fixed_approx_npr": 100000,
+    "day_of_job_closing": "2026-09-17"
+  },
+  {
+    "company_name": "CloudVault Vault",
+    "location": "Kathmandu",
+    "job_title": "SRE – Hybrid Cloud",
+    "role_type": "devops",
+    "skills_needed": [
+      "Kubernetes",
+      "on‑prem",
+      "monitoring",
+      "SLO",
+      "incident"
+    ],
+    "salary_fixed_approx_npr": 120000,
+    "day_of_job_closing": "2026-09-18"
+  },
+  {
+    "company_name": "DataNexus Nest",
+    "location": "Kathmandu",
+    "job_title": "Realtime Analytics Engineer",
+    "role_type": "data_engineering",
+    "skills_needed": [
+      "Kafka",
+      "Flink",
+      "SQL",
+      "dashboards",
+      "alerts"
+    ],
+    "salary_fixed_approx_npr": 83000,
+    "day_of_job_closing": "2026-09-19"
+  },
+  {
+    "company_name": "CipherNexus Nest",
+    "location": "Kathmandu",
+    "job_title": "Red Team Lead",
+    "role_type": "hacking_and_security",
+    "skills_needed": [
+      "pentesting",
+      "reporting",
+      "team coordination",
+      "defense bypass",
+      "strategy"
+    ],
+    "salary_fixed_approx_npr": 125000,
+    "day_of_job_closing": "2026-09-20"
+  },
+  {
+    "company_name": "KernelNexus Nest",
+    "location": "Kathmandu",
+    "job_title": "Systems Engineer – Virtualization",
+    "role_type": "it_operations",
+    "skills_needed": [
+      "VMware",
+      "vSphere",
+      "backups",
+      "monitoring",
+      "documentation"
+    ],
+    "salary_fixed_approx_npr": 75000,
+    "day_of_job_closing": "2026-09-21"
+  },
+  {
+    "company_name": "ScriptNexus Nest",
+    "location": "Kathmandu",
+    "job_title": "Infrastructure as Code Engineer",
+    "role_type": "automation",
+    "skills_needed": [
+      "Terraform",
+      "Ansible",
+      "CI/CD",
+      "Git",
+      "testing"
+    ],
+    "salary_fixed_approx_npr": 83000,
+    "day_of_job_closing": "2026-09-22"
+  },
+  {
+    "company_name": "NetNexus Nest",
+    "location": "Kathmandu",
+    "job_title": "Wireless Network Engineer",
+    "role_type": "network",
+    "skills_needed": [
+      "Wi‑Fi",
+      "APs",
+      "controllers",
+      "troubleshooting",
+      "documentation"
+    ],
+    "salary_fixed_approx_npr": 70000,
+    "day_of_job_closing": "2026-09-23"
+  },
+  {
+    "company_name": "BusinessProcessVault Nepal",
+    "location": "Kathmandu",
+    "job_title": "Automation & Process Engineer",
+    "role_type": "automation",
+    "skills_needed": [
+      "process mapping",
+      "scripts",
+      "APIs",
+      "coordination",
+      "documentation"
+    ],
+    "salary_fixed_approx_npr": 58000,
+    "day_of_job_closing": "2026-09-24"
+  }
+]

@@ -3,12 +3,17 @@ import { GeistSans } from 'geist/font/sans';
 import { GeistMono } from 'geist/font/mono';
 import { ClerkProvider } from '@clerk/nextjs';
 import { SITE } from '@/lib/constants';
+import { GuruChat } from '@/components/chat/GuruChat';
 import './globals.css';
 
 export const metadata: Metadata = {
   title: {
     default: `${SITE.name} — ${SITE.tagline}`,
     template: `%s · ${SITE.name}`,
+  },
+  icons: {
+    icon: '/logo.png',
+    apple: '/logo.png',
   },
   description:
     'Upload your resume in English or Nepali. We score you against every live role in Kathmandu, point out the exact skills you\'re missing, and hand you a 12-week plan that\'s free to follow.',
@@ -75,6 +80,7 @@ export default function RootLayout({
         </head>
         <body className="min-h-screen bg-[var(--color-paper)] text-[var(--color-ink)] antialiased">
           {children}
+          <GuruChat />
         </body>
       </html>
     </ClerkProvider>

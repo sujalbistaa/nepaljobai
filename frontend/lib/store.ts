@@ -27,6 +27,29 @@ export function setLang(l: Lang) {
   listeners.forEach((fn) => fn(l));
 }
 
+// ── Guru chat open/close ──────────────────────────────────────────────────────
+type ChatListener = (open: boolean) => void;
+const chatListeners = new Set<ChatListener>();
+let _chatOpen = false;
+
+export function openGuruChat()  { _chatOpen = true;  chatListeners.forEach(fn => fn(true)); }
+export function closeGuruChat() { _chatOpen = false; chatListeners.forEach(fn => fn(false)); }
+export function toggleGuruChat() { _chatOpen ? closeGuruChat() : openGuruChat(); }
+
+export function useGuruChat() {
+  const [isOpen, setIsOpen] = useState(false);
+
+  useEffect(() => {
+    setIsOpen(_chatOpen);
+    const fn: ChatListener = (open) => setIsOpen(open);
+    chatListeners.add(fn);
+    return () => { chatListeners.delete(fn); };
+  }, []);
+
+  return { isOpen, open: openGuruChat, close: closeGuruChat, toggle: toggleGuruChat };
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
 export function useLang(): [Lang, (l: Lang) => void] {
   const [lang, setLocal] = useState<Lang>('en');
 

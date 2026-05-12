@@ -72,6 +72,12 @@
 }
 
 
+/* Glass surface tokens — sticky navbar */
+:root {
+  --color-paper-glass: oklch(0.93 0.015 80 / 0.82);
+  --color-rule-glass: oklch(0.85 0.01 250 / 0.45);
+}
+
 /* ── Base styles ──
    Wrap resets in @layer base so Tailwind utilities (in @layer utilities)
    correctly win over them. Without this, unlayered CSS beats all @layer
