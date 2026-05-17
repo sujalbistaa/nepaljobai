@@ -4,19 +4,29 @@ from sqlalchemy.pool import StaticPool
 from app.config import settings
 from app.db.base import Base
 
-# ── Engine ────────────────────────────────────────────────────────────────────
-# StaticPool + check_same_thread=False needed for SQLite in async context
-connect_args = (
-    {"check_same_thread": False}
-    if settings.database_url.startswith("sqlite")
-    else {}
-)
+
+def _normalise_url(url: str) -> str:
+    """
+    Ensure the async driver prefix is present.
+    Neon / Render supply plain  postgresql://  but asyncpg needs  postgresql+asyncpg://
+    """
+    if url.startswith("postgres://"):
+        return url.replace("postgres://", "postgresql+asyncpg://", 1)
+    if url.startswith("postgresql://"):
+        return url.replace("postgresql://", "postgresql+asyncpg://", 1)
+    return url  # sqlite+aiosqlite:// or already has driver prefix
+
+
+_db_url = _normalise_url(settings.database_url)
+_is_sqlite = _db_url.startswith("sqlite")
+
+connect_args = {"check_same_thread": False} if _is_sqlite else {}
 
 engine = create_async_engine(
-    settings.database_url,
+    _db_url,
     echo=settings.debug,
     connect_args=connect_args,
-    poolclass=StaticPool if settings.database_url.startswith("sqlite") else None,
+    poolclass=StaticPool if _is_sqlite else None,
 )
 
 AsyncSessionLocal = async_sessionmaker(
@@ -29,7 +39,7 @@ AsyncSessionLocal = async_sessionmaker(
 
 
 async def init_db() -> None:
-    """Create all tables on startup (dev only — use Alembic in prod)."""
+    """Create all tables on startup."""
     async with engine.begin() as conn:
         await conn.run_sync(Base.metadata.create_all)
 
