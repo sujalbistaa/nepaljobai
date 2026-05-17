@@ -7,14 +7,16 @@ from app.db.base import Base
 
 def _normalise_url(url: str) -> str:
     """
-    Ensure the async driver prefix is present.
-    Neon / Render supply plain  postgresql://  but asyncpg needs  postgresql+asyncpg://
+    Ensure the async driver prefix is present and asyncpg-compatible SSL param.
+    Neon supplies  postgresql://?sslmode=require  — asyncpg needs  ssl=require.
     """
     if url.startswith("postgres://"):
-        return url.replace("postgres://", "postgresql+asyncpg://", 1)
-    if url.startswith("postgresql://"):
-        return url.replace("postgresql://", "postgresql+asyncpg://", 1)
-    return url  # sqlite+aiosqlite:// or already has driver prefix
+        url = url.replace("postgres://", "postgresql+asyncpg://", 1)
+    elif url.startswith("postgresql://"):
+        url = url.replace("postgresql://", "postgresql+asyncpg://", 1)
+    # asyncpg uses ssl=require, not sslmode=require
+    url = url.replace("sslmode=require", "ssl=require")
+    return url
 
 
 _db_url = _normalise_url(settings.database_url)
