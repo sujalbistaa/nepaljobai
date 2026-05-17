@@ -16,6 +16,12 @@ const nextConfig = {
   experimental: {
     optimizePackageImports: ['lucide-react', 'framer-motion'],
   },
+  webpack(config) {
+    // Explicit alias so @/ always resolves to the frontend/ directory,
+    // regardless of the Vercel build root.
+    config.resolve.alias['@'] = __dirname;
+    return config;
+  },
 };
 
 export default nextConfig;
