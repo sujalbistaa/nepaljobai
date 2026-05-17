@@ -1,11 +1,14 @@
 from contextlib import asynccontextmanager
 
-from fastapi import FastAPI
+from fastapi import Depends, FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from sqlalchemy import func, select
+from sqlalchemy.ext.asyncio import AsyncSession
 
 from app.config import settings
-from app.db.session import init_db
-from app.routers import resume, matches, roadmap, jobs, scrape, users, chat
+from app.db.session import get_db, init_db
+from app.models.db_models import Job
+from app.routers import chat, jobs, matches, resume, roadmap, scrape, users
 
 
 @asynccontextmanager
@@ -23,9 +26,18 @@ app = FastAPI(
 )
 
 # ── CORS ──────────────────────────────────────────────────────────────────────
+_explicit_origins: list[str] = [
+    "http://localhost:3000",
+    "http://localhost:3001",
+]
+if settings.frontend_url:
+    _explicit_origins.append(settings.frontend_url)
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=settings.cors_origins,
+    allow_origins=_explicit_origins,
+    # Covers all Vercel preview URLs (e.g. project-git-branch-team.vercel.app)
+    allow_origin_regex=r"https://.*\.vercel\.app",
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -42,5 +54,7 @@ app.include_router(chat.router,    prefix="/api",         tags=["chat"])
 
 
 @app.get("/health", tags=["health"])
-async def health():
-    return {"status": "ok", "app": "NepalJobAI"}
+async def health(db: AsyncSession = Depends(get_db)) -> dict:
+    result = await db.execute(select(func.count()).select_from(Job))
+    jobs_indexed: int = result.scalar_one()
+    return {"status": "ok", "jobs_indexed": jobs_indexed}

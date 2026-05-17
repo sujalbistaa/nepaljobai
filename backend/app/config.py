@@ -38,6 +38,9 @@ class Settings(BaseSettings):
     celery_broker_url: str = "redis://localhost:6379/0"
     celery_result_backend: str = "redis://localhost:6379/0"
 
+    # Frontend URL — used in CORS allow-list for the production Vercel deployment
+    frontend_url: str = ""
+
     model_config = SettingsConfigDict(
         env_file=".env",
         env_file_encoding="utf-8",
